@@ -5,5 +5,5 @@
 - [team 2](https://drive.google.com/drive/folders/1R2FgxSCetr0DQV6gS9p_N6NWeJYNYBEH?usp=sharing)
 
 # TODO List
-[ ] Data Aggregation and Clean Up
-[ ] ...
+- [ ] Data Aggregation and Clean Up
+- [ ] ...
