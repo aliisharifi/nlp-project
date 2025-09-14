@@ -1,0 +1,7484 @@
+[
+  {
+    "name": "Damavand",
+    "latitude": 35.955277777,
+    "longitude": 52.109166666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": -2.5,
+      "windspeed": 6.2,
+      "winddirection": 263,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 5594.0
+  },
+  {
+    "name": "Chehel Sotun",
+    "latitude": 32.657361111,
+    "longitude": 51.671805555,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 4.0,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1584.0
+  },
+  {
+    "name": "Palace of Ardashir",
+    "latitude": 28.898091,
+    "longitude": 52.539314,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 28.0,
+      "windspeed": 6.0,
+      "winddirection": 17,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1364.0
+  },
+  {
+    "name": "Chogha Zanbil",
+    "latitude": 32.008333333,
+    "longitude": 48.520833333,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 9.4,
+      "winddirection": 90,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 83.0
+  },
+  {
+    "name": "Chogha Zanbil",
+    "latitude": 32.008333333,
+    "longitude": 48.520833333,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 9.4,
+      "winddirection": 90,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 83.0
+  },
+  {
+    "name": "Sorkheh Hesar National Park",
+    "latitude": 35.658333333,
+    "longitude": 51.575,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 7.6,
+      "winddirection": 71,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1546.0
+  },
+  {
+    "name": "Eram Garden",
+    "latitude": 29.635833333,
+    "longitude": 52.525555555,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.5,
+      "windspeed": 5.4,
+      "winddirection": 323,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1565.0
+  },
+  {
+    "name": "Eram Amusement Park",
+    "latitude": 35.721444444,
+    "longitude": 51.292666666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 2.2,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1255.0
+  },
+  {
+    "name": "Takht-e Soleyman",
+    "latitude": 36.604722222,
+    "longitude": 47.234166666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 18.9,
+      "windspeed": 10.6,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2200.0
+  },
+  {
+    "name": "Persepolis",
+    "latitude": 29.935,
+    "longitude": 52.89,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1635.0
+  },
+  {
+    "name": "Persepolis",
+    "latitude": 29.935,
+    "longitude": 52.89,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1635.0
+  },
+  {
+    "name": "Sarvestan Palace",
+    "latitude": 29.195556,
+    "longitude": 53.230833,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 2.6,
+      "winddirection": 304,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1548.0
+  },
+  {
+    "name": "Takht-e Soleyman",
+    "latitude": 36.604722222,
+    "longitude": 47.234166666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 18.9,
+      "windspeed": 10.6,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2200.0
+  },
+  {
+    "name": "Abu Musa Island",
+    "latitude": 25.875,
+    "longitude": 55.03,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 32.5,
+      "windspeed": 35.7,
+      "winddirection": 47,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 7.0
+  },
+  {
+    "name": "Eram Zoo",
+    "latitude": 35.718527777,
+    "longitude": 51.293583333,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 2.1,
+      "winddirection": 301,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1249.0
+  },
+  {
+    "name": "Susa",
+    "latitude": 32.189444444,
+    "longitude": 48.256111111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 29.9,
+      "windspeed": 10.2,
+      "winddirection": 80,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 76.0
+  },
+  {
+    "name": "Susa",
+    "latitude": 32.189444444,
+    "longitude": 48.256111111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 29.9,
+      "windspeed": 10.2,
+      "winddirection": 80,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 76.0
+  },
+  {
+    "name": "Qavam Garden",
+    "latitude": 29.607844,
+    "longitude": 52.552569,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 5.8,
+      "winddirection": 274,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1530.0
+  },
+  {
+    "name": "Cypress of Abarkuh",
+    "latitude": 31.122583,
+    "longitude": 53.279736,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 25.9,
+      "windspeed": 5.6,
+      "winddirection": 140,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1509.0
+  },
+  {
+    "name": "Quri Qala Cave",
+    "latitude": 34.9,
+    "longitude": 46.503611111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.0,
+      "windspeed": 8.7,
+      "winddirection": 60,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1662.0
+  },
+  {
+    "name": "Golestan Palace",
+    "latitude": 35.679722222,
+    "longitude": 51.420277777,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 27.1,
+      "windspeed": 3.4,
+      "winddirection": 32,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1149.0
+  },
+  {
+    "name": "Kish Island",
+    "latitude": 26.533333333,
+    "longitude": 53.966666666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 34.5,
+      "windspeed": 14.5,
+      "winddirection": 83,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 27.0
+  },
+  {
+    "name": "Teppe Hasanlu",
+    "latitude": 37.004831,
+    "longitude": 45.458892,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.4,
+      "windspeed": 18.8,
+      "winddirection": 348,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1301.0
+  },
+  {
+    "name": "Pasargadae",
+    "latitude": 30.2,
+    "longitude": 53.179444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 16.4,
+      "windspeed": 3.9,
+      "winddirection": 338,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1854.0
+  },
+  {
+    "name": "Ziwiye",
+    "latitude": 36.26214722,
+    "longitude": 46.68780833,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.5,
+      "windspeed": 4.1,
+      "winddirection": 135,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1626.0
+  },
+  {
+    "name": "Pasargadae",
+    "latitude": 30.2,
+    "longitude": 53.179444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 16.4,
+      "windspeed": 3.9,
+      "winddirection": 338,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1854.0
+  },
+  {
+    "name": "Cypress of Abarkuh",
+    "latitude": 31.122583,
+    "longitude": 53.279736,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 25.9,
+      "windspeed": 5.6,
+      "winddirection": 140,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1509.0
+  },
+  {
+    "name": "Jameh Mosque of Qazvin",
+    "latitude": 36.260833333,
+    "longitude": 50.001666666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 6.9,
+      "winddirection": 309,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1297.0
+  },
+  {
+    "name": "Atiq Jameh Mosque of Shiraz",
+    "latitude": 29.608153,
+    "longitude": 52.544803,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.4,
+      "windspeed": 5.4,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1535.0
+  },
+  {
+    "name": "Teppe Hasanlu",
+    "latitude": 37.004831,
+    "longitude": 45.458892,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.4,
+      "windspeed": 18.8,
+      "winddirection": 348,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1301.0
+  },
+  {
+    "name": "Qeshm Island",
+    "latitude": 26.833333333,
+    "longitude": 56.0,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.0,
+      "windspeed": 22.1,
+      "winddirection": 74,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 26.0
+  },
+  {
+    "name": "Afifabad Garden",
+    "latitude": 29.623166666,
+    "longitude": 52.498361111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.5,
+      "windspeed": 5.4,
+      "winddirection": 323,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1567.0
+  },
+  {
+    "name": "Rudkhan Castle",
+    "latitude": 37.064444444,
+    "longitude": 49.239722222,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 19.2,
+      "windspeed": 1.9,
+      "winddirection": 292,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 650.0
+  },
+  {
+    "name": "Tepe Yahya",
+    "latitude": 28.3309,
+    "longitude": 56.8674,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 27.6,
+      "windspeed": 7.1,
+      "winddirection": 114,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1506.0
+  },
+  {
+    "name": "Ganjnameh Tourist Resort Complex",
+    "latitude": 34.762361111,
+    "longitude": 48.437194444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 20.2,
+      "windspeed": 7.3,
+      "winddirection": 79,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2282.0
+  },
+  {
+    "name": "Bishapur",
+    "latitude": 29.777778,
+    "longitude": 51.570833,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 28.1,
+      "windspeed": 5.7,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 808.0
+  },
+  {
+    "name": "Qal'eh Dokhtar",
+    "latitude": 28.920997,
+    "longitude": 52.530136,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 27.4,
+      "windspeed": 6.0,
+      "winddirection": 17,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1426.0
+  },
+  {
+    "name": "Mount Taftan",
+    "latitude": 28.6,
+    "longitude": 61.133333333,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 9.1,
+      "windspeed": 4.0,
+      "winddirection": 10,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 3917.0
+  },
+  {
+    "name": "Anshan Persia",
+    "latitude": 30.011666666,
+    "longitude": 52.407777777,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 19.5,
+      "windspeed": 2.8,
+      "winddirection": 220,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1624.0
+  },
+  {
+    "name": "Rahmatabad Mound",
+    "latitude": 30.2033075,
+    "longitude": 53.17901,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 16.4,
+      "windspeed": 3.9,
+      "winddirection": 338,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1847.0
+  },
+  {
+    "name": "Bastam Citadel",
+    "latitude": 38.884575,
+    "longitude": 44.950943,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.5,
+      "windspeed": 5.4,
+      "winddirection": 352,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1161.0
+  },
+  {
+    "name": "Anshan Persia",
+    "latitude": 30.011666666,
+    "longitude": 52.407777777,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 19.5,
+      "windspeed": 2.8,
+      "winddirection": 220,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1624.0
+  },
+  {
+    "name": "Saheb-ol-Amr Mosque",
+    "latitude": 38.083888888,
+    "longitude": 46.295555555,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.6,
+      "winddirection": 86,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1390.0
+  },
+  {
+    "name": "Shazdeh Garden",
+    "latitude": 30.023883,
+    "longitude": 57.282092,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 18.9,
+      "windspeed": 7.7,
+      "winddirection": 143,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2018.0
+  },
+  {
+    "name": "Babak Castle",
+    "latitude": 38.837222,
+    "longitude": 46.980833,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 10.9,
+      "windspeed": 5.1,
+      "winddirection": 39,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 2263.0
+  },
+  {
+    "name": "Hormuz Island",
+    "latitude": 27.0675,
+    "longitude": 56.46,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 28.8,
+      "windspeed": 6.4,
+      "winddirection": 164,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 162.0
+  },
+  {
+    "name": "Shah Mosque",
+    "latitude": 32.654805555,
+    "longitude": 51.677777777,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 4.7,
+      "winddirection": 99,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1577.0
+  },
+  {
+    "name": "Ecbatana",
+    "latitude": 34.8065,
+    "longitude": 48.516247,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.3,
+      "windspeed": 2.3,
+      "winddirection": 231,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1788.0
+  },
+  {
+    "name": "Naqsh-e Rustam",
+    "latitude": 29.988888888,
+    "longitude": 52.874722222,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.1,
+      "windspeed": 7.2,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1641.0
+  },
+  {
+    "name": "Chaharbagh (Isfahan)",
+    "latitude": 32.656972222,
+    "longitude": 51.669138888,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 4.0,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1577.0
+  },
+  {
+    "name": "Sirri Island",
+    "latitude": 25.909444444,
+    "longitude": 54.539444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 33.4,
+      "windspeed": 41.6,
+      "winddirection": 61,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 28.0
+  },
+  {
+    "name": "Ashuradeh",
+    "latitude": 36.75,
+    "longitude": 53.58333333,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 26.6,
+      "windspeed": 7.7,
+      "winddirection": 217,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": -22.0
+  },
+  {
+    "name": "Ashuradeh",
+    "latitude": 36.905833333,
+    "longitude": 53.981111111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 28.0,
+      "windspeed": 18.3,
+      "winddirection": 250,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": -26.0
+  },
+  {
+    "name": "Marlik",
+    "latitude": 36.83055556,
+    "longitude": 49.45916667,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.1,
+      "windspeed": 6.2,
+      "winddirection": 83,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 265.0
+  },
+  {
+    "name": "Godin Tepe",
+    "latitude": 34.516667,
+    "longitude": 48.066667,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.6,
+      "windspeed": 4.7,
+      "winddirection": 86,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1482.0
+  },
+  {
+    "name": "Sheikh Lotfollah Mosque",
+    "latitude": 32.657454,
+    "longitude": 51.678535,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 4.0,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1569.0
+  },
+  {
+    "name": "Band-e Kaisar",
+    "latitude": 32.053723,
+    "longitude": 48.848687,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 33.5,
+      "windspeed": 4.9,
+      "winddirection": 144,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 42.0
+  },
+  {
+    "name": "Azerbaijan Museum",
+    "latitude": 38.073333,
+    "longitude": 46.3,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.6,
+      "winddirection": 86,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1396.0
+  },
+  {
+    "name": "Band-e Kaisar",
+    "latitude": 32.053723,
+    "longitude": 48.848687,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 33.5,
+      "windspeed": 4.9,
+      "winddirection": 144,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 42.0
+  },
+  {
+    "name": "Istakhr",
+    "latitude": 29.981666666,
+    "longitude": 52.909444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1639.0
+  },
+  {
+    "name": "Istakhr",
+    "latitude": 29.981666666,
+    "longitude": 52.909444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1639.0
+  },
+  {
+    "name": "City Park",
+    "latitude": 35.683055555,
+    "longitude": 51.414166666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 27.0,
+      "windspeed": 3.4,
+      "winddirection": 32,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1153.0
+  },
+  {
+    "name": "Jamshidieh Park",
+    "latitude": 35.826111111,
+    "longitude": 51.465277777,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.9,
+      "windspeed": 4.7,
+      "winddirection": 351,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1845.0
+  },
+  {
+    "name": "Hajji Firuz Tepe",
+    "latitude": 36.9944,
+    "longitude": 45.4744,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.6,
+      "windspeed": 10.8,
+      "winddirection": 330,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1293.0
+  },
+  {
+    "name": "Taq-e Bostan",
+    "latitude": 34.387529,
+    "longitude": 47.132096,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 4.8,
+      "winddirection": 77,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1397.0
+  },
+  {
+    "name": "Carpet Museum of Iran",
+    "latitude": 35.714138888,
+    "longitude": 51.390916666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 2.2,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1250.0
+  },
+  {
+    "name": "Carpet Museum of Iran",
+    "latitude": 35.714138888,
+    "longitude": 51.390916666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 2.2,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1250.0
+  },
+  {
+    "name": "Hendurabi",
+    "latitude": 26.673888888,
+    "longitude": 53.632222222,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 34.4,
+      "windspeed": 3.4,
+      "winddirection": 58,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 19.0
+  },
+  {
+    "name": "Hengam Island",
+    "latitude": 26.633333333,
+    "longitude": 55.866666666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.2,
+      "windspeed": 22.8,
+      "winddirection": 52,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 40.0
+  },
+  {
+    "name": "Larak Island",
+    "latitude": 26.85,
+    "longitude": 56.35,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.6,
+      "windspeed": 30.3,
+      "winddirection": 108,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 60.0
+  },
+  {
+    "name": "Shahr-e Sukhteh",
+    "latitude": 30.595277777,
+    "longitude": 61.331944444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.4,
+      "windspeed": 15.5,
+      "winddirection": 318,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 491.0
+  },
+  {
+    "name": "Shahr-e Sukhteh",
+    "latitude": 30.595277777,
+    "longitude": 61.331944444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.4,
+      "windspeed": 15.5,
+      "winddirection": 318,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 491.0
+  },
+  {
+    "name": "Pardisan Park",
+    "latitude": 35.745555555,
+    "longitude": 51.354166666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 4.3,
+      "winddirection": 5,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1402.0
+  },
+  {
+    "name": "Kharg Island",
+    "latitude": 29.245,
+    "longitude": 50.31,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 34.5,
+      "windspeed": 15.3,
+      "winddirection": 135,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 60.0
+  },
+  {
+    "name": "Zagros Paleolithic Museum",
+    "latitude": 34.318612,
+    "longitude": 47.071905,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 6.6,
+      "winddirection": 193,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1373.0
+  },
+  {
+    "name": "Matiene",
+    "latitude": 36.5,
+    "longitude": 46.5,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 3.3,
+      "winddirection": 319,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1368.0
+  },
+  {
+    "name": "Mount Khajeh",
+    "latitude": 30.943888888,
+    "longitude": 61.244444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.4,
+      "windspeed": 21.1,
+      "winddirection": 340,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 595.0
+  },
+  {
+    "name": "Temple of Anahita at Kangavar",
+    "latitude": 34.5015,
+    "longitude": 47.9599,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.7,
+      "windspeed": 5.6,
+      "winddirection": 310,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1480.0
+  },
+  {
+    "name": "Darband Cave",
+    "latitude": 36.83495,
+    "longitude": 49.65464,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 17.7,
+      "windspeed": 0.8,
+      "winddirection": 243,
+      "is_day": 0,
+      "weathercode": 45
+    },
+    "elevation_m": 761.0
+  },
+  {
+    "name": "Kul-e Farah",
+    "latitude": 31.871944444,
+    "longitude": 49.928333333,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 29.0,
+      "windspeed": 7.2,
+      "winddirection": 108,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 848.0
+  },
+  {
+    "name": "Jameh Mosque of Isfahan",
+    "latitude": 32.669722222,
+    "longitude": 51.685277777,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 4.0,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1575.0
+  },
+  {
+    "name": "Haft Tepe",
+    "latitude": 32.078889,
+    "longitude": 48.326389,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 29.9,
+      "windspeed": 9.1,
+      "winddirection": 83,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 77.0
+  },
+  {
+    "name": "Gundeshapur",
+    "latitude": 32.283333333,
+    "longitude": 48.516666666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 32.5,
+      "windspeed": 11.2,
+      "winddirection": 96,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 94.0
+  },
+  {
+    "name": "Gundeshapur",
+    "latitude": 32.283333333,
+    "longitude": 48.516666666,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 32.5,
+      "windspeed": 11.2,
+      "winddirection": 96,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 94.0
+  },
+  {
+    "name": "Fin Garden",
+    "latitude": 33.946277777,
+    "longitude": 51.372611111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 30.0,
+      "windspeed": 6.1,
+      "winddirection": 225,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1036.0
+  },
+  {
+    "name": "Hasht Behesht Palace",
+    "latitude": 32.653361111,
+    "longitude": 51.670138888,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 4.7,
+      "winddirection": 99,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1582.0
+  },
+  {
+    "name": "Portuguese Castle (Qeshm)",
+    "latitude": 26.960416666,
+    "longitude": 56.277388888,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 31.1,
+      "windspeed": 20.2,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 0.0
+  },
+  {
+    "name": "Musasir",
+    "latitude": 36.0,
+    "longitude": 46.0,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 11.8,
+      "winddirection": 52,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1974.0
+  },
+  {
+    "name": "Jameh Mosque of Borujerd",
+    "latitude": 33.895916666,
+    "longitude": 48.763444444,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 22.9,
+      "windspeed": 5.2,
+      "winddirection": 348,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1572.0
+  },
+  {
+    "name": "Jameh Mosque of Yazd",
+    "latitude": 31.901388888,
+    "longitude": 54.368611111,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 27.9,
+      "windspeed": 9.4,
+      "winddirection": 137,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1214.0
+  },
+  {
+    "name": "Tepe Hissar",
+    "latitude": 36.154544,
+    "longitude": 54.384964,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 16.0,
+      "winddirection": 293,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1124.0
+  },
+  {
+    "name": "Naqsh-e Rajab",
+    "latitude": 29.966527777,
+    "longitude": 52.887305555,
+    "weather": {
+      "time": "2025-08-16T03:00",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1635.0
+  },
+  {
+    "name": "Ganj Par",
+    "latitude": 36.893611,
+    "longitude": 49.483056,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.2,
+      "windspeed": 6.3,
+      "winddirection": 77,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 230.0
+  },
+  {
+    "name": "Ganj Par",
+    "latitude": 36.893611,
+    "longitude": 49.483056,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.2,
+      "windspeed": 6.3,
+      "winddirection": 77,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 230.0
+  },
+  {
+    "name": "Abgineh Museum of Tehran",
+    "latitude": 35.693416666,
+    "longitude": 51.415083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.6,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1169.0
+  },
+  {
+    "name": "Laleh Park",
+    "latitude": 35.710305555,
+    "longitude": 51.392416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.2,
+      "windspeed": 2.1,
+      "winddirection": 329,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1239.0
+  },
+  {
+    "name": "Mellat Park",
+    "latitude": 35.778277777,
+    "longitude": 51.410472222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.5,
+      "windspeed": 4.3,
+      "winddirection": 355,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1524.0
+  },
+  {
+    "name": "National Museum of Iran",
+    "latitude": 35.687044,
+    "longitude": 51.414611,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1160.0
+  },
+  {
+    "name": "Sabalan",
+    "latitude": 38.266944444,
+    "longitude": 47.836944444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 0.2,
+      "windspeed": 5.2,
+      "winddirection": 192,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 4780.0
+  },
+  {
+    "name": "National Museum of Iran",
+    "latitude": 35.687044,
+    "longitude": 51.414611,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1160.0
+  },
+  {
+    "name": "Palace of Darius in Susa",
+    "latitude": 32.192222222,
+    "longitude": 48.248888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.8,
+      "windspeed": 10.5,
+      "winddirection": 82,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 86.0
+  },
+  {
+    "name": "Farsi Island",
+    "latitude": 27.993055555,
+    "longitude": 50.1725,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.5,
+      "windspeed": 23.8,
+      "winddirection": 122,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 4.0
+  },
+  {
+    "name": "Blue Mosque (Tabriz)",
+    "latitude": 38.073586,
+    "longitude": 46.301078,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1396.0
+  },
+  {
+    "name": "Jamkaran Mosque",
+    "latitude": 34.583888888,
+    "longitude": 50.914722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.6,
+      "windspeed": 17.3,
+      "winddirection": 102,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 915.0
+  },
+  {
+    "name": "Hecatompylos",
+    "latitude": 35.961666666,
+    "longitude": 54.0375,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.1,
+      "windspeed": 15.6,
+      "winddirection": 296,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1294.0
+  },
+  {
+    "name": "Tepe Sialk",
+    "latitude": 33.968888888,
+    "longitude": 51.404722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.0,
+      "windspeed": 5.1,
+      "winddirection": 262,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 953.0
+  },
+  {
+    "name": "Hecatompylos",
+    "latitude": 35.961666666,
+    "longitude": 54.0375,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.1,
+      "windspeed": 15.6,
+      "winddirection": 296,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1294.0
+  },
+  {
+    "name": "Tarikhaneh",
+    "latitude": 36.164388888,
+    "longitude": 54.354305555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.4,
+      "windspeed": 18.9,
+      "winddirection": 294,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1146.0
+  },
+  {
+    "name": "Zozan",
+    "latitude": 34.3475,
+    "longitude": 59.869444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 5.3,
+      "winddirection": 208,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 774.0
+  },
+  {
+    "name": "Vakil Mosque",
+    "latitude": 29.614166666,
+    "longitude": 52.545277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 5.4,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1541.0
+  },
+  {
+    "name": "Nasir-ol-Molk Mosque",
+    "latitude": 29.608555555,
+    "longitude": 52.548472222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 5.4,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1534.0
+  },
+  {
+    "name": "Niavaran Palace Complex",
+    "latitude": 35.810833333,
+    "longitude": 51.471666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.2,
+      "windspeed": 5.6,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1661.0
+  },
+  {
+    "name": "Iraj Castle",
+    "latitude": 35.3425,
+    "longitude": 51.679722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.6,
+      "windspeed": 17.0,
+      "winddirection": 96,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 943.0
+  },
+  {
+    "name": "Tehran Museum of Contemporary Art",
+    "latitude": 35.711388888,
+    "longitude": 51.390555555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.2,
+      "windspeed": 2.1,
+      "winddirection": 329,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1240.0
+  },
+  {
+    "name": "Sa'dabad Palace",
+    "latitude": 35.817222222,
+    "longitude": 51.423611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.0,
+      "winddirection": 333,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1714.0
+  },
+  {
+    "name": "Gerdkuh",
+    "latitude": 36.161944444,
+    "longitude": 54.156666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.6,
+      "windspeed": 16.1,
+      "winddirection": 312,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1530.0
+  },
+  {
+    "name": "Shahi Island",
+    "latitude": 37.85,
+    "longitude": 45.5,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.4,
+      "windspeed": 21.1,
+      "winddirection": 44,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1662.0
+  },
+  {
+    "name": "Minu Island",
+    "latitude": 30.333333333,
+    "longitude": 48.216666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.4,
+      "windspeed": 13.2,
+      "winddirection": 163,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 3.0
+  },
+  {
+    "name": "Abadan Island",
+    "latitude": 30.083333333,
+    "longitude": 48.533333333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.1,
+      "windspeed": 15.1,
+      "winddirection": 152,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1.0
+  },
+  {
+    "name": "Lonban Mosque",
+    "latitude": 32.651161111,
+    "longitude": 51.652169444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1576.0
+  },
+  {
+    "name": "Kurangun",
+    "latitude": 30.185,
+    "longitude": 51.47277778,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.0,
+      "windspeed": 2.7,
+      "winddirection": 113,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1111.0
+  },
+  {
+    "name": "Konar Sandal",
+    "latitude": 28.4632,
+    "longitude": 57.7792,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.3,
+      "windspeed": 6.9,
+      "winddirection": 309,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 577.0
+  },
+  {
+    "name": "Seleucia on the Hedyphon",
+    "latitude": 30.987222222,
+    "longitude": 49.426722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.8,
+      "windspeed": 13.0,
+      "winddirection": 156,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 41.0
+  },
+  {
+    "name": "Goharshad Mosque",
+    "latitude": 36.2875,
+    "longitude": 59.614722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.7,
+      "windspeed": 3.3,
+      "winddirection": 257,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 982.0
+  },
+  {
+    "name": "Tall-i Bakun",
+    "latitude": 29.91,
+    "longitude": 52.88,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 5.5,
+      "winddirection": 58,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1603.0
+  },
+  {
+    "name": "Sheivand",
+    "latitude": 31.612403,
+    "longitude": 50.191598,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.8,
+      "windspeed": 2.0,
+      "winddirection": 135,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1291.0
+  },
+  {
+    "name": "Ali Qapu",
+    "latitude": 32.657138888,
+    "longitude": 51.676666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1573.0
+  },
+  {
+    "name": "Jameh Mosque of Nain",
+    "latitude": 32.869,
+    "longitude": 53.088,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.2,
+      "windspeed": 4.5,
+      "winddirection": 284,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1559.0
+  },
+  {
+    "name": "Ali Kosh",
+    "latitude": 32.557814,
+    "longitude": 47.324922,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 35.0,
+      "windspeed": 27.4,
+      "winddirection": 92,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 142.0
+  },
+  {
+    "name": "Lavan Island",
+    "latitude": 26.816666666,
+    "longitude": 53.266666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.8,
+      "windspeed": 3.3,
+      "winddirection": 41,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 31.0
+  },
+  {
+    "name": "Sharaf Caravanserai",
+    "latitude": 36.266388888,
+    "longitude": 60.655277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.0,
+      "windspeed": 4.0,
+      "winddirection": 260,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 610.0
+  },
+  {
+    "name": "Ganj Dareh",
+    "latitude": 34.2721,
+    "longitude": 47.4758,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.0,
+      "windspeed": 9.6,
+      "winddirection": 110,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1372.0
+  },
+  {
+    "name": "Jarchi Mosque",
+    "latitude": 32.663305555,
+    "longitude": 51.677361111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1572.0
+  },
+  {
+    "name": "Al-Nabi Mosque",
+    "latitude": 36.26833333,
+    "longitude": 49.99888889,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.4,
+      "windspeed": 6.1,
+      "winddirection": 315,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1304.0
+  },
+  {
+    "name": "Heydariyeh Mosque (Qazvin)",
+    "latitude": 36.265166666,
+    "longitude": 50.005722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 6.1,
+      "winddirection": 315,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1297.0
+  },
+  {
+    "name": "Barm-e Delak",
+    "latitude": 29.5854,
+    "longitude": 52.65384,
+    "weather": {
+      "error": "HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "elevation_m": 1480.0
+  },
+  {
+    "name": "Bardak Siah Palace",
+    "latitude": 29.354166666,
+    "longitude": 51.109638888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.2,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 34.0
+  },
+  {
+    "name": "Jameh Mosque of Nishapur",
+    "latitude": 36.202001,
+    "longitude": 58.796117,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 1.8,
+      "winddirection": 169,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1191.0
+  },
+  {
+    "name": "Dukkan-e Daud",
+    "latitude": 34.440894,
+    "longitude": 45.897875,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.8,
+      "windspeed": 8.9,
+      "winddirection": 159,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 629.0
+  },
+  {
+    "name": "Tehran Peace Museum",
+    "latitude": 35.68435,
+    "longitude": 51.414611,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1152.0
+  },
+  {
+    "name": "Ershad Hussainiya",
+    "latitude": 35.756766,
+    "longitude": 51.448209,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.9,
+      "windspeed": 5.4,
+      "winddirection": 8,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1366.0
+  },
+  {
+    "name": "Daneshju Park (Tehran)",
+    "latitude": 35.700416666,
+    "longitude": 51.406444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1196.0
+  },
+  {
+    "name": "Chitgar Park",
+    "latitude": 35.73,
+    "longitude": 51.2083,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.2,
+      "windspeed": 3.9,
+      "winddirection": 338,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1280.0
+  },
+  {
+    "name": "Niavaran Park",
+    "latitude": 35.8083,
+    "longitude": 51.4714,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.5,
+      "windspeed": 5.6,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1602.0
+  },
+  {
+    "name": "Mowri",
+    "latitude": 32.361,
+    "longitude": 49.827,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.7,
+      "windspeed": 6.6,
+      "winddirection": 81,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1307.0
+  },
+  {
+    "name": "Qaleh Bozi",
+    "latitude": 32.388889,
+    "longitude": 51.561389,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.1,
+      "windspeed": 1.5,
+      "winddirection": 135,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1650.0
+  },
+  {
+    "name": "Qaleh Bozi",
+    "latitude": 32.407972,
+    "longitude": 51.561667,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.0,
+      "windspeed": 3.9,
+      "winddirection": 158,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1793.0
+  },
+  {
+    "name": "Rashkan Castle",
+    "latitude": 35.605,
+    "longitude": 51.45027778,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.5,
+      "windspeed": 4.0,
+      "winddirection": 350,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1091.0
+  },
+  {
+    "name": "Greater Faror Island",
+    "latitude": 26.2875,
+    "longitude": 54.516388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.6,
+      "windspeed": 34.4,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 71.0
+  },
+  {
+    "name": "Hajar Khatoon Mosque",
+    "latitude": 35.319788,
+    "longitude": 46.999872,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 7.0,
+      "winddirection": 305,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1503.0
+  },
+  {
+    "name": "Jameh Mosque of Zanjan",
+    "latitude": 36.667916666,
+    "longitude": 48.479444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.7,
+      "windspeed": 8.3,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1644.0
+  },
+  {
+    "name": "Agha Bozorg Mosque",
+    "latitude": 33.97847222,
+    "longitude": 51.44513889,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.0,
+      "windspeed": 3.7,
+      "winddirection": 259,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 941.0
+  },
+  {
+    "name": "Jameh Mosque of Ferdows",
+    "latitude": 34.007777777,
+    "longitude": 58.158611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.6,
+      "windspeed": 4.4,
+      "winddirection": 99,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1266.0
+  },
+  {
+    "name": "Jameh Mosque of Varamin",
+    "latitude": 35.322083333,
+    "longitude": 51.641638888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.5,
+      "windspeed": 14.8,
+      "winddirection": 94,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 913.0
+  },
+  {
+    "name": "Qadamgah",
+    "latitude": 29.7341,
+    "longitude": 53.2122,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.1,
+      "windspeed": 3.4,
+      "winddirection": 18,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1584.0
+  },
+  {
+    "name": "Cheshmeh-Ali",
+    "latitude": 35.61027778,
+    "longitude": 51.44972222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.5,
+      "windspeed": 4.0,
+      "winddirection": 350,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1077.0
+  },
+  {
+    "name": "Falak-ol-Aflak",
+    "latitude": 33.483787,
+    "longitude": 48.353426,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.6,
+      "windspeed": 3.8,
+      "winddirection": 73,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1198.0
+  },
+  {
+    "name": "Khargu Island",
+    "latitude": 29.33325,
+    "longitude": 50.352403,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 35.0,
+      "windspeed": 12.5,
+      "winddirection": 136,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 5.0
+  },
+  {
+    "name": "Lesser Tunb Island",
+    "latitude": 26.24,
+    "longitude": 55.15,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.2,
+      "windspeed": 44.2,
+      "winddirection": 50,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 17.0
+  },
+  {
+    "name": "Shidvar Island",
+    "latitude": 26.791111111,
+    "longitude": 53.411111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.5,
+      "windspeed": 3.7,
+      "winddirection": 61,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1.0
+  },
+  {
+    "name": "Eshaqvand Tombs",
+    "latitude": 34.2484,
+    "longitude": 47.4484,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 8.4,
+      "winddirection": 110,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1564.0
+  },
+  {
+    "name": "Shikaft-e Gulgul",
+    "latitude": 33.49111111,
+    "longitude": 47.46111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.2,
+      "windspeed": 4.3,
+      "winddirection": 336,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1411.0
+  },
+  {
+    "name": "Tang-i Var Inscription",
+    "latitude": 35.0045,
+    "longitude": 46.6289,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.6,
+      "windspeed": 3.1,
+      "winddirection": 144,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1186.0
+  },
+  {
+    "name": "Imamzadeh Muhammad al-Mahruq",
+    "latitude": 36.165303,
+    "longitude": 58.821331,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 1.8,
+      "winddirection": 169,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1181.0
+  },
+  {
+    "name": "Ferdows Garden",
+    "latitude": 35.802527777,
+    "longitude": 51.422027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 355,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1624.0
+  },
+  {
+    "name": "Portuguese Castle",
+    "latitude": 27.100675,
+    "longitude": 56.452127777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.0,
+      "windspeed": 9.5,
+      "winddirection": 143,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 6.0
+  },
+  {
+    "name": "Jameh Mosque of Ashtarjan",
+    "latitude": 32.476027777,
+    "longitude": 51.479166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.8,
+      "windspeed": 3.1,
+      "winddirection": 225,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1628.0
+  },
+  {
+    "name": "Soltani Mosque",
+    "latitude": 33.894833333,
+    "longitude": 48.758777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.8,
+      "windspeed": 4.8,
+      "winddirection": 347,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1570.0
+  },
+  {
+    "name": "Jameh Mosque of Saveh",
+    "latitude": 35.010277777,
+    "longitude": 50.363055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.8,
+      "windspeed": 9.3,
+      "winddirection": 36,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 987.0
+  },
+  {
+    "name": "Omar Khayyam Square",
+    "latitude": 36.196944444,
+    "longitude": 58.8025,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 1.8,
+      "winddirection": 169,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1189.0
+  },
+  {
+    "name": "Ghasre Abu-Nasr",
+    "latitude": 29.5841,
+    "longitude": 52.6246,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.1,
+      "windspeed": 3.6,
+      "winddirection": 6,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1518.0
+  },
+  {
+    "name": "Wooden Mosque",
+    "latitude": 36.109166666,
+    "longitude": 58.871694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.1,
+      "windspeed": 11.2,
+      "winddirection": 147,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1172.0
+  },
+  {
+    "name": "Golestan Park",
+    "latitude": 38.07685,
+    "longitude": 46.280531,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.1,
+      "windspeed": 32.9,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1382.0
+  },
+  {
+    "name": "Darjazin",
+    "latitude": 35.36083333,
+    "longitude": 49.07583333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.6,
+      "windspeed": 7.6,
+      "winddirection": 82,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1828.0
+  },
+  {
+    "name": "Alamut Castle",
+    "latitude": 36.444722222,
+    "longitude": 50.586111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 17.1,
+      "windspeed": 7.4,
+      "winddirection": 39,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2094.0
+  },
+  {
+    "name": "Ali-Sadr Cave",
+    "latitude": 35.301608,
+    "longitude": 48.303881,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 10.7,
+      "winddirection": 135,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2029.0
+  },
+  {
+    "name": "Ali-Sadr Cave",
+    "latitude": 35.301608,
+    "longitude": 48.303881,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 10.7,
+      "winddirection": 135,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2029.0
+  },
+  {
+    "name": "Ardabil Anthropology Museum",
+    "latitude": 38.2497,
+    "longitude": 48.2888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 15.9,
+      "windspeed": 7.1,
+      "winddirection": 30,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1350.0
+  },
+  {
+    "name": "El-Goli",
+    "latitude": 38.025322222,
+    "longitude": 46.365597222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.5,
+      "windspeed": 34.9,
+      "winddirection": 78,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1585.0
+  },
+  {
+    "name": "Jameh Mosque of Amol",
+    "latitude": 36.472222222,
+    "longitude": 52.354055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.4,
+      "windspeed": 7.6,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 96.0
+  },
+  {
+    "name": "Jameh Mosque of Tabriz",
+    "latitude": 38.080992,
+    "longitude": 46.290417,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1395.0
+  },
+  {
+    "name": "Bandian Complex",
+    "latitude": 37.462777777,
+    "longitude": 59.1015,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 5.1,
+      "winddirection": 262,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 476.0
+  },
+  {
+    "name": "Bisotun Old Caravanserai",
+    "latitude": 34.386583333,
+    "longitude": 47.43525,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 5.1,
+      "winddirection": 356,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1292.0
+  },
+  {
+    "name": "Chaharbagh Madrasa",
+    "latitude": 32.651666666,
+    "longitude": 51.669166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 5.2,
+      "winddirection": 102,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1580.0
+  },
+  {
+    "name": "Chia Jani",
+    "latitude": 33.94795,
+    "longitude": 46.78346,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 4.1,
+      "winddirection": 105,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1308.0
+  },
+  {
+    "name": "Chogha Bonut",
+    "latitude": 32.222222,
+    "longitude": 48.505,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.1,
+      "windspeed": 9.7,
+      "winddirection": 90,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 74.0
+  },
+  {
+    "name": "Seymareh",
+    "latitude": 33.130277777,
+    "longitude": 47.366388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.8,
+      "windspeed": 7.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 691.0
+  },
+  {
+    "name": "Tureng Tepe",
+    "latitude": 36.934722,
+    "longitude": 54.590278,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.4,
+      "windspeed": 6.9,
+      "winddirection": 208,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 18.0
+  },
+  {
+    "name": "Dimdim Castle",
+    "latitude": 37.36012778,
+    "longitude": 45.17085556,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.9,
+      "windspeed": 3.3,
+      "winddirection": 354,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1680.0
+  },
+  {
+    "name": "Do-Ashkaft Cave",
+    "latitude": 34.400952777,
+    "longitude": 47.130813888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.9,
+      "windspeed": 5.8,
+      "winddirection": 60,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1694.0
+  },
+  {
+    "name": "Hakim Mosque",
+    "latitude": 32.663222222,
+    "longitude": 51.674638888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1573.0
+  },
+  {
+    "name": "Marbin Fortress",
+    "latitude": 32.648055555,
+    "longitude": 51.570277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 3.6,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1607.0
+  },
+  {
+    "name": "Marbin Fortress",
+    "latitude": 32.648055555,
+    "longitude": 51.570277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 3.6,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1607.0
+  },
+  {
+    "name": "Ghar Parau",
+    "latitude": 34.4114254,
+    "longitude": 47.2413231,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.5,
+      "windspeed": 4.7,
+      "winddirection": 238,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 3074.0
+  },
+  {
+    "name": "Jameh Mosque of Qerveh",
+    "latitude": 36.0588,
+    "longitude": 49.3782,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.1,
+      "windspeed": 7.3,
+      "winddirection": 351,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1428.0
+  },
+  {
+    "name": "Espi Mazget",
+    "latitude": 37.638138888,
+    "longitude": 49.048083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": -7.0
+  },
+  {
+    "name": "Museum of the Islamic Era",
+    "latitude": 35.687055555,
+    "longitude": 51.415444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1160.0
+  },
+  {
+    "name": "Museum of the Islamic Era",
+    "latitude": 35.687055555,
+    "longitude": 51.415444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1160.0
+  },
+  {
+    "name": "Haj Shahbazkhan Mosque",
+    "latitude": 34.314722222,
+    "longitude": 47.068055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.9,
+      "windspeed": 6.2,
+      "winddirection": 187,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1395.0
+  },
+  {
+    "name": "Hamedan Museum of Natural History",
+    "latitude": 34.803888888,
+    "longitude": 48.483333333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 2.1,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1819.0
+  },
+  {
+    "name": "Sardar Mosque",
+    "latitude": 37.549805555,
+    "longitude": 45.071722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 9.7,
+      "winddirection": 318,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1354.0
+  },
+  {
+    "name": "Hedayat Mosque",
+    "latitude": 35.7767352,
+    "longitude": 51.451293,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 5.4,
+      "winddirection": 8,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1437.0
+  },
+  {
+    "name": "Jameh Mosque of Urmia",
+    "latitude": 37.550833333,
+    "longitude": 45.075833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 9.7,
+      "winddirection": 318,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1352.0
+  },
+  {
+    "name": "Jameh Mosque of Gorgan",
+    "latitude": 36.842222222,
+    "longitude": 54.430555555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 8.0,
+      "winddirection": 188,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 126.0
+  },
+  {
+    "name": "Q5671788",
+    "latitude": 30.27348611,
+    "longitude": 57.12233889,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.8,
+      "windspeed": 1.9,
+      "winddirection": 112,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1778.0
+  },
+  {
+    "name": "Bampur Castle",
+    "latitude": 27.201305555,
+    "longitude": 60.447361111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.5,
+      "windspeed": 2.9,
+      "winddirection": 330,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 525.0
+  },
+  {
+    "name": "Moshir Mosque",
+    "latitude": 29.612138888,
+    "longitude": 52.537194444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 5.4,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1540.0
+  },
+  {
+    "name": "Q5674610",
+    "latitude": 28.758229684,
+    "longitude": 51.072847865,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.3,
+      "windspeed": 5.1,
+      "winddirection": 98,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 10.0
+  },
+  {
+    "name": "Velayat Park (Tehran)",
+    "latitude": 35.645555555,
+    "longitude": 51.381388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.1,
+      "windspeed": 4.5,
+      "winddirection": 299,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1113.0
+  },
+  {
+    "name": "Tepe Sagzabad",
+    "latitude": 35.816671,
+    "longitude": 49.952264,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.5,
+      "windspeed": 4.9,
+      "winddirection": 306,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1246.0
+  },
+  {
+    "name": "Seyyed al-Shohada Mosque (Khoy)",
+    "latitude": 38.551861111,
+    "longitude": 44.960083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 2.8,
+      "winddirection": 230,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1136.0
+  },
+  {
+    "name": "Iwan-e Mosaic",
+    "latitude": 29.7800445,
+    "longitude": 51.5764556,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.1,
+      "windspeed": 5.4,
+      "winddirection": 70,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 814.0
+  },
+  {
+    "name": "Kuh-e Qaen Castle",
+    "latitude": 33.696833333,
+    "longitude": 59.207638888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 17.9,
+      "windspeed": 3.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1656.0
+  },
+  {
+    "name": "Naaz Islands",
+    "latitude": 26.8,
+    "longitude": 56.1,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.0,
+      "windspeed": 22.4,
+      "winddirection": 62,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 0.0
+  },
+  {
+    "name": "Holy Defense Museum (Hamadan)",
+    "latitude": 34.787222222,
+    "longitude": 48.480833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.6,
+      "windspeed": 3.3,
+      "winddirection": 174,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1879.0
+  },
+  {
+    "name": "Holy Defense Museum (Hamadan)",
+    "latitude": 34.787222222,
+    "longitude": 48.480833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.6,
+      "windspeed": 3.3,
+      "winddirection": 174,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1879.0
+  },
+  {
+    "name": "Jameh Mosque of Germi",
+    "latitude": 39.02366667,
+    "longitude": 48.07841667,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.6,
+      "windspeed": 6.0,
+      "winddirection": 73,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 846.0
+  },
+  {
+    "name": "Pamenar Mosque",
+    "latitude": 36.207166666,
+    "longitude": 57.679055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.0,
+      "windspeed": 20.5,
+      "winddirection": 75,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 967.0
+  },
+  {
+    "name": "Jameh Mosque of Lar",
+    "latitude": 27.685444444,
+    "longitude": 54.338305555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.2,
+      "windspeed": 4.0,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 818.0
+  },
+  {
+    "name": "Jushin Castle",
+    "latitude": 38.612428,
+    "longitude": 46.413586,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 15.2,
+      "windspeed": 6.8,
+      "winddirection": 122,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1493.0
+  },
+  {
+    "name": "Citadel Mosque (Tehran)",
+    "latitude": 35.6796,
+    "longitude": 51.4185,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1147.0
+  },
+  {
+    "name": "Valerian Palace",
+    "latitude": 29.7800119,
+    "longitude": 51.5772211,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.1,
+      "windspeed": 5.4,
+      "winddirection": 70,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 817.0
+  },
+  {
+    "name": "Jameh Mosque of Arak",
+    "latitude": 34.166611111,
+    "longitude": 49.412305555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 11.4,
+      "winddirection": 101,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 2111.0
+  },
+  {
+    "name": "Jameh Mosque of Torbat-e Heydarieh",
+    "latitude": 35.273611111,
+    "longitude": 59.218888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.1,
+      "windspeed": 8.5,
+      "winddirection": 36,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1352.0
+  },
+  {
+    "name": "Iran Cinema Museum",
+    "latitude": 35.802083333,
+    "longitude": 51.422166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.9,
+      "windspeed": 4.3,
+      "winddirection": 355,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1624.0
+  },
+  {
+    "name": "Pottery museum of Tabriz",
+    "latitude": 38.087886111,
+    "longitude": 46.299958333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.9,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1404.0
+  },
+  {
+    "name": "Astan Quds Razavi Museum",
+    "latitude": 36.2865619,
+    "longitude": 59.6158892,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.6,
+      "windspeed": 3.3,
+      "winddirection": 257,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 979.0
+  },
+  {
+    "name": "Jameh Mosque of Marand",
+    "latitude": 38.43116,
+    "longitude": 45.77549,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 9.0,
+      "winddirection": 127,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1329.0
+  },
+  {
+    "name": "Lavizan Forest Park",
+    "latitude": 35.768830486,
+    "longitude": 51.509937843,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 5.6,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1528.0
+  },
+  {
+    "name": "Larak Castle",
+    "latitude": 26.88397222,
+    "longitude": 56.38877778,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.0,
+      "windspeed": 30.4,
+      "winddirection": 109,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 6.0
+  },
+  {
+    "name": "Q5692216",
+    "latitude": 37.27780556,
+    "longitude": 49.59608333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.8,
+      "windspeed": 1.3,
+      "winddirection": 214,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 4.0
+  },
+  {
+    "name": "Taleghani Forest Park",
+    "latitude": 35.753611111,
+    "longitude": 51.4225,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 5.4,
+      "winddirection": 8,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1410.0
+  },
+  {
+    "name": "Jahan Nama Palace (Farahabad)",
+    "latitude": 36.79361389,
+    "longitude": 53.11615,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.1,
+      "windspeed": 13.5,
+      "winddirection": 226,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": -22.0
+  },
+  {
+    "name": "Soltani Mosque",
+    "latitude": 35.566388888,
+    "longitude": 53.400833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.6,
+      "windspeed": 8.3,
+      "winddirection": 5,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1119.0
+  },
+  {
+    "name": "Post and Communication Museum of Tehran",
+    "latitude": 35.68625,
+    "longitude": 51.417958,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1163.0
+  },
+  {
+    "name": "Throne Garden (Shiraz)",
+    "latitude": 29.635722222,
+    "longitude": 52.544527777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.1,
+      "windspeed": 5.4,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1561.0
+  },
+  {
+    "name": "Q5702526",
+    "latitude": 29.451005269,
+    "longitude": 51.893229809,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.0,
+      "windspeed": 4.0,
+      "winddirection": 175,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 840.0
+  },
+  {
+    "name": "Baqcheh Jooq Palace",
+    "latitude": 39.289444444,
+    "longitude": 44.426166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.7,
+      "windspeed": 2.8,
+      "winddirection": 130,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1406.0
+  },
+  {
+    "name": "Ardashir Castle (Kerman)",
+    "latitude": 30.288722222,
+    "longitude": 57.100638888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 3.4,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1867.0
+  },
+  {
+    "name": "Ali Akbar Sanati Museum",
+    "latitude": 35.686194444,
+    "longitude": 51.420277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1160.0
+  },
+  {
+    "name": "Q5702953",
+    "latitude": 29.934098237,
+    "longitude": 52.89117083,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.7,
+      "windspeed": 5.5,
+      "winddirection": 58,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1635.0
+  },
+  {
+    "name": "Barm Plain",
+    "latitude": 29.55,
+    "longitude": 51.9,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.2,
+      "windspeed": 9.0,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1463.0
+  },
+  {
+    "name": "Tabriz Museum of Natural History",
+    "latitude": 38.064,
+    "longitude": 46.3223,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.8,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1433.0
+  },
+  {
+    "name": "Dokhtar Castle (Kerman)",
+    "latitude": 30.292222222,
+    "longitude": 57.095277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 3.4,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1775.0
+  },
+  {
+    "name": "Glass Painting Museum (Tehran)",
+    "latitude": 35.699083333,
+    "longitude": 51.430388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1191.0
+  },
+  {
+    "name": "Kabudan Island",
+    "latitude": 37.4803,
+    "longitude": 45.6208,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.8,
+      "windspeed": 10.4,
+      "winddirection": 340,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1454.0
+  },
+  {
+    "name": "Jameh Mosque of Damghan",
+    "latitude": 36.166666666,
+    "longitude": 54.351111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.4,
+      "windspeed": 18.9,
+      "winddirection": 294,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1150.0
+  },
+  {
+    "name": "Q5704412",
+    "latitude": 32.61636989,
+    "longitude": 51.58615889,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.9,
+      "windspeed": 3.6,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1623.0
+  },
+  {
+    "name": "Natural History and Technology Museum of Shiraz University",
+    "latitude": 29.592547757,
+    "longitude": 52.574290462,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.0,
+      "windspeed": 3.3,
+      "winddirection": 319,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1513.0
+  },
+  {
+    "name": "Jameh Mosque of Khozan",
+    "latitude": 32.682777777,
+    "longitude": 51.545166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.2,
+      "windspeed": 2.7,
+      "winddirection": 23,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1593.0
+  },
+  {
+    "name": "Jameh Mosque of Sabzevar",
+    "latitude": 36.207361111,
+    "longitude": 57.676888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 20.5,
+      "winddirection": 75,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 965.0
+  },
+  {
+    "name": "Galehdari Mosque",
+    "latitude": 27.17775,
+    "longitude": 56.271527777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.0,
+      "windspeed": 19.9,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 8.0
+  },
+  {
+    "name": "Ardalan Castle",
+    "latitude": 34.63325,
+    "longitude": 48.293583333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.6,
+      "windspeed": 6.4,
+      "winddirection": 16,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1785.0
+  },
+  {
+    "name": "Jalilabad Castle",
+    "latitude": 35.34825,
+    "longitude": 51.788333333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 16.3,
+      "winddirection": 104,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 972.0
+  },
+  {
+    "name": "Motalleb Khan Mosque",
+    "latitude": 38.550833333,
+    "longitude": 44.959166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 2.8,
+      "winddirection": 230,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1136.0
+  },
+  {
+    "name": "Teppe Zagheh",
+    "latitude": 35.823285,
+    "longitude": 49.975013,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.5,
+      "windspeed": 9.7,
+      "winddirection": 301,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1235.0
+  },
+  {
+    "name": "Khargush Darreh Forest Park",
+    "latitude": 35.717777777,
+    "longitude": 51.256944444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.2,
+      "windspeed": 4.7,
+      "winddirection": 270,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1264.0
+  },
+  {
+    "name": "Naderi Castle (Laft)",
+    "latitude": 26.893944444,
+    "longitude": 55.762027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.4,
+      "windspeed": 18.4,
+      "winddirection": 48,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 15.0
+  },
+  {
+    "name": "Fin Castle",
+    "latitude": 27.626416666,
+    "longitude": 55.894888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.0,
+      "windspeed": 3.1,
+      "winddirection": 21,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 319.0
+  },
+  {
+    "name": "Q5710758",
+    "latitude": 27.914,
+    "longitude": 51.445,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.6,
+      "windspeed": 5.5,
+      "winddirection": 79,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 0.0
+  },
+  {
+    "name": "Qal'eh Dokhtar, Bileh Savar",
+    "latitude": 39.2242,
+    "longitude": 48.2127,
+    "weather": {
+      "time": "2025-08-16T03:45",
+      "interval": 900,
+      "temperature": 20.6,
+      "windspeed": 8.0,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 472.0
+  },
+  {
+    "name": "Jameh Mosque of Shushtar",
+    "latitude": 32.04157222,
+    "longitude": 48.84725,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.1,
+      "windspeed": 4.2,
+      "winddirection": 149,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 60.0
+  },
+  {
+    "name": "Jameh Mosque of Shafei",
+    "latitude": 34.316905,
+    "longitude": 47.067479,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.0,
+      "windspeed": 6.2,
+      "winddirection": 187,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1378.0
+  },
+  {
+    "name": "Qalat",
+    "latitude": 36.50416667,
+    "longitude": 45.40416667,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.9,
+      "windspeed": 7.2,
+      "winddirection": 3,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1570.0
+  },
+  {
+    "name": "Jameh Mosque of Bukan",
+    "latitude": 36.519083333,
+    "longitude": 46.207805555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 3.1,
+      "winddirection": 324,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1348.0
+  },
+  {
+    "name": "Q5717570",
+    "latitude": 38.031880555,
+    "longitude": 46.394563888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.6,
+      "windspeed": 34.9,
+      "winddirection": 78,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1567.0
+  },
+  {
+    "name": "Iranian House of Cartoon",
+    "latitude": 35.75129167,
+    "longitude": 51.44304722,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.0,
+      "windspeed": 5.4,
+      "winddirection": 8,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1357.0
+  },
+  {
+    "name": "Seyyed Mosque",
+    "latitude": 32.664903,
+    "longitude": 51.663744,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1577.0
+  },
+  {
+    "name": "Hegmataneh museum",
+    "latitude": 34.803479349,
+    "longitude": 48.518335029,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 2.1,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1813.0
+  },
+  {
+    "name": "Q5723230",
+    "latitude": 29.01635053,
+    "longitude": 50.880876285,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 35.0,
+      "windspeed": 8.6,
+      "winddirection": 105,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2.0
+  },
+  {
+    "name": "Jameh Mosque of Bandar Abbas",
+    "latitude": 27.177222222,
+    "longitude": 56.275055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.0,
+      "windspeed": 19.9,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 11.0
+  },
+  {
+    "name": "Zar Khezer Khan Castle",
+    "latitude": 28.885833333,
+    "longitude": 51.278611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.9,
+      "windspeed": 3.6,
+      "winddirection": 96,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 62.0
+  },
+  {
+    "name": "Jameh Mosque of Kermanshah",
+    "latitude": 34.318333333,
+    "longitude": 47.070833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.0,
+      "windspeed": 6.2,
+      "winddirection": 187,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1373.0
+  },
+  {
+    "name": "Jannat garden",
+    "latitude": 29.613274,
+    "longitude": 52.472656,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 5.5,
+      "winddirection": 328,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1576.0
+  },
+  {
+    "name": "Sheykh Makan Castle",
+    "latitude": 33.097138888,
+    "longitude": 47.399611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.2,
+      "windspeed": 4.2,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 778.0
+  },
+  {
+    "name": "Deh Shad Castle",
+    "latitude": 35.593083333,
+    "longitude": 51.157222222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 14.5,
+      "winddirection": 300,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1089.0
+  },
+  {
+    "name": "Q5731437",
+    "latitude": 33.4309802,
+    "longitude": 46.8175239,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 5.9,
+      "winddirection": 256,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1033.0
+  },
+  {
+    "name": "Jameh Mosque of Bardestan",
+    "latitude": 27.869444444,
+    "longitude": 51.955416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.0,
+      "windspeed": 4.0,
+      "winddirection": 5,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 13.0
+  },
+  {
+    "name": "Castle of Oblivion",
+    "latitude": 32.033,
+    "longitude": 49.85,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.7,
+      "windspeed": 3.7,
+      "winddirection": 169,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 553.0
+  },
+  {
+    "name": "Jameh Mosque of Kabir Neyriz",
+    "latitude": 29.191583333,
+    "longitude": 54.318861111,
+    "weather": {
+      "error": "HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "elevation_m": 1607.0
+  },
+  {
+    "name": "Rostam Castle",
+    "latitude": 30.5571,
+    "longitude": 61.2469,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.8,
+      "windspeed": 14.3,
+      "winddirection": 311,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 479.0
+  },
+  {
+    "name": "Abuzar Mosque",
+    "latitude": 35.658833,
+    "longitude": 51.36412,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.0,
+      "windspeed": 2.1,
+      "winddirection": 329,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1124.0
+  },
+  {
+    "name": "Nahj-ol-Balagheh Park",
+    "latitude": 35.753055555,
+    "longitude": 51.341944444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 4.1,
+      "winddirection": 345,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1410.0
+  },
+  {
+    "name": "Tark Stone Mosque",
+    "latitude": 37.615814252,
+    "longitude": 47.773360916,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.3,
+      "windspeed": 15.9,
+      "winddirection": 57,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1524.0
+  },
+  {
+    "name": "Haj Ali Kuchak Mosque",
+    "latitude": 36.475944444,
+    "longitude": 52.352416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.4,
+      "windspeed": 7.6,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 88.0
+  },
+  {
+    "name": "Kohneh Qal'eh, Meshginshahr",
+    "latitude": 38.53664,
+    "longitude": 47.93783,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.2,
+      "windspeed": 3.8,
+      "winddirection": 73,
+      "is_day": 0,
+      "weathercode": 80
+    },
+    "elevation_m": 1108.0
+  },
+  {
+    "name": "Q5774602",
+    "latitude": 36.56521944,
+    "longitude": 53.06259167,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.2,
+      "windspeed": 8.2,
+      "winddirection": 221,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 41.0
+  },
+  {
+    "name": "Qazvin Museum",
+    "latitude": 36.268222222,
+    "longitude": 50.004694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 6.1,
+      "winddirection": 315,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1301.0
+  },
+  {
+    "name": "Hall of hundred columns",
+    "latitude": 29.935277777,
+    "longitude": 52.891111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.7,
+      "windspeed": 5.5,
+      "winddirection": 58,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1635.0
+  },
+  {
+    "name": "Q5777166",
+    "latitude": 34.314446,
+    "longitude": 47.070365,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.0,
+      "windspeed": 6.2,
+      "winddirection": 187,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1370.0
+  },
+  {
+    "name": "Tehran Waterfall Park",
+    "latitude": 35.767222222,
+    "longitude": 51.218055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 0.7,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1458.0
+  },
+  {
+    "name": "Jameh Mosque of Kerman",
+    "latitude": 30.292777777,
+    "longitude": 57.084722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.9,
+      "windspeed": 1.5,
+      "winddirection": 76,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1760.0
+  },
+  {
+    "name": "Qalat",
+    "latitude": 36.98472222,
+    "longitude": 45.61444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 6.0,
+      "winddirection": 335,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1281.0
+  },
+  {
+    "name": "Haj Samad Khan Mosque",
+    "latitude": 37.28516667,
+    "longitude": 49.58647222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.9,
+      "windspeed": 2.3,
+      "winddirection": 231,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": -4.0
+  },
+  {
+    "name": "Hezareh Castle",
+    "latitude": 27.152416666,
+    "longitude": 57.078194444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.5,
+      "windspeed": 3.0,
+      "winddirection": 166,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 47.0
+  },
+  {
+    "name": "Reishahr",
+    "latitude": 28.896111111,
+    "longitude": 50.831944444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.7,
+      "windspeed": 7.4,
+      "winddirection": 104,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 20.0
+  },
+  {
+    "name": "Sheikh Bastami Mosque",
+    "latitude": 36.48425,
+    "longitude": 55.000277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.1,
+      "windspeed": 7.6,
+      "winddirection": 45,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1415.0
+  },
+  {
+    "name": "Jameh Mosque of Qeshm",
+    "latitude": 26.960916666,
+    "longitude": 56.275555555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.0,
+      "windspeed": 19.9,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 9.0
+  },
+  {
+    "name": "Qalat",
+    "latitude": 30.51361111,
+    "longitude": 51.125,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 9.3,
+      "winddirection": 16,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2017.0
+  },
+  {
+    "name": "Anobanini rock relief",
+    "latitude": 34.463259,
+    "longitude": 45.868349,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.4,
+      "windspeed": 8.9,
+      "winddirection": 159,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 549.0
+  },
+  {
+    "name": "Owlad Castle",
+    "latitude": 35.977647,
+    "longitude": 52.682463,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 13.5,
+      "windspeed": 1.1,
+      "winddirection": 270,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 2105.0
+  },
+  {
+    "name": "Hajj Safar Ali Mosque",
+    "latitude": 38.083361111,
+    "longitude": 46.294336111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1390.0
+  },
+  {
+    "name": "Ashraf Hall",
+    "latitude": 32.656583333,
+    "longitude": 51.674277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1580.0
+  },
+  {
+    "name": "Zahedan Kohneh",
+    "latitude": 30.975706884,
+    "longitude": 61.685802016,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.5,
+      "windspeed": 38.3,
+      "winddirection": 332,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 491.0
+  },
+  {
+    "name": "Poshtab Castle",
+    "latitude": 38.08,
+    "longitude": 47.3,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 16.4,
+      "windspeed": 2.3,
+      "winddirection": 231,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1776.0
+  },
+  {
+    "name": "Sirjan Stone Castle",
+    "latitude": 29.366666666,
+    "longitude": 55.763333333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.8,
+      "windspeed": 4.7,
+      "winddirection": 351,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1758.0
+  },
+  {
+    "name": "Qalat",
+    "latitude": 30.90666667,
+    "longitude": 50.10694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.3,
+      "windspeed": 7.0,
+      "winddirection": 125,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 624.0
+  },
+  {
+    "name": "Jameh Mosque of Gerash",
+    "latitude": 27.664888888,
+    "longitude": 54.136694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.1,
+      "windspeed": 3.9,
+      "winddirection": 56,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 926.0
+  },
+  {
+    "name": "Zar Bolagh Castle",
+    "latitude": 35.1701,
+    "longitude": 50.9674,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.1,
+      "windspeed": 10.0,
+      "winddirection": 41,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1281.0
+  },
+  {
+    "name": "Safiabad Palace",
+    "latitude": 36.687583333,
+    "longitude": 53.527,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.6,
+      "windspeed": 6.9,
+      "winddirection": 186,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 94.0
+  },
+  {
+    "name": "Q5862786",
+    "latitude": 36.65458056,
+    "longitude": 45.95085278,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.6,
+      "windspeed": 8.0,
+      "winddirection": 352,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1761.0
+  },
+  {
+    "name": "Saltanat Abad Palace",
+    "latitude": 35.788826,
+    "longitude": 51.477447,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.2,
+      "windspeed": 5.6,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1510.0
+  },
+  {
+    "name": "Haft Dast Palace",
+    "latitude": 32.637166666,
+    "longitude": 51.676944444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 5.2,
+      "winddirection": 102,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1579.0
+  },
+  {
+    "name": "Martyrs Museum (Tehran)",
+    "latitude": 35.706583333,
+    "longitude": 51.421416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.5,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1208.0
+  },
+  {
+    "name": "Sarutaqi Mosque",
+    "latitude": 32.653027777,
+    "longitude": 51.680055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 5.2,
+      "winddirection": 102,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1573.0
+  },
+  {
+    "name": "Baba Abdullah Mosque",
+    "latitude": 32.866055555,
+    "longitude": 53.090916666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.2,
+      "windspeed": 4.5,
+      "winddirection": 284,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1557.0
+  },
+  {
+    "name": "Bisotun Spring",
+    "latitude": 34.389722222,
+    "longitude": 47.437,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 5.1,
+      "winddirection": 356,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1339.0
+  },
+  {
+    "name": "Temple of Anahita at Bishapur",
+    "latitude": 29.7800335,
+    "longitude": 51.5756862,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.1,
+      "windspeed": 5.4,
+      "winddirection": 70,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 814.0
+  },
+  {
+    "name": "Fritillaria Plain, Koohrang",
+    "latitude": 32.573,
+    "longitude": 50.206833,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 17.1,
+      "windspeed": 3.9,
+      "winddirection": 338,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2327.0
+  },
+  {
+    "name": "Q5868521",
+    "latitude": 32.6601866,
+    "longitude": 51.6802025,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1570.0
+  },
+  {
+    "name": "Sardar Castle",
+    "latitude": 36.519777777,
+    "longitude": 46.207611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 3.1,
+      "winddirection": 324,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1348.0
+  },
+  {
+    "name": "Gabaran Castle",
+    "latitude": 36.0272,
+    "longitude": 50.6425,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.6,
+      "windspeed": 5.0,
+      "winddirection": 60,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1459.0
+  },
+  {
+    "name": "Jameh Mosque of Jajarm",
+    "latitude": 36.945939608,
+    "longitude": 56.383623249,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.2,
+      "windspeed": 26.3,
+      "winddirection": 312,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 926.0
+  },
+  {
+    "name": "Jameh Mosque of Roshtkhar",
+    "latitude": 34.966527777,
+    "longitude": 59.630166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.4,
+      "windspeed": 1.1,
+      "winddirection": 288,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1140.0
+  },
+  {
+    "name": "Zirdeh Mosque",
+    "latitude": 32.320694444,
+    "longitude": 54.02,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.5,
+      "windspeed": 3.3,
+      "winddirection": 139,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1033.0
+  },
+  {
+    "name": "Khezr Shah Mosque",
+    "latitude": 31.899833333,
+    "longitude": 54.356833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.7,
+      "windspeed": 9.7,
+      "winddirection": 132,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1211.0
+  },
+  {
+    "name": "Jameh Mosque of Qaen",
+    "latitude": 33.72575,
+    "longitude": 59.193111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.9,
+      "windspeed": 3.9,
+      "winddirection": 22,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1447.0
+  },
+  {
+    "name": "National Arts Museum",
+    "latitude": 35.6928528,
+    "longitude": 51.4323423,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.6,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1184.0
+  },
+  {
+    "name": "Tepe Naderi (Bisotun)",
+    "latitude": 34.408055555,
+    "longitude": 47.452777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 3.3,
+      "winddirection": 131,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1328.0
+  },
+  {
+    "name": "Jameh Mosque of Nadushan",
+    "latitude": 32.030694444,
+    "longitude": 53.551611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.6,
+      "windspeed": 5.7,
+      "winddirection": 198,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1960.0
+  },
+  {
+    "name": "Qal'eh Dokhtar, Qom",
+    "latitude": 34.571177,
+    "longitude": 50.708463,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.3,
+      "windspeed": 26.8,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1057.0
+  },
+  {
+    "name": "Sun Palace",
+    "latitude": 36.995083333,
+    "longitude": 59.766916666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.9,
+      "windspeed": 5.2,
+      "winddirection": 196,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 874.0
+  },
+  {
+    "name": "Emarat-e Badgir",
+    "latitude": 35.679055555,
+    "longitude": 51.421611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1149.0
+  },
+  {
+    "name": "Pasargadae Garden",
+    "latitude": 30.201666666,
+    "longitude": 53.178888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 16.4,
+      "windspeed": 4.0,
+      "winddirection": 333,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1859.0
+  },
+  {
+    "name": "Firuzkuh Castle",
+    "latitude": 35.749,
+    "longitude": 52.767972222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 17.5,
+      "windspeed": 6.0,
+      "winddirection": 73,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 2000.0
+  },
+  {
+    "name": "Purashraf Castle",
+    "latitude": 33.09975,
+    "longitude": 47.402388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.2,
+      "windspeed": 2.2,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 679.0
+  },
+  {
+    "name": "Paqala Hezarani Castle",
+    "latitude": 32.9477,
+    "longitude": 47.4617,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.3,
+      "windspeed": 3.2,
+      "winddirection": 297,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 788.0
+  },
+  {
+    "name": "Mesri Mosque",
+    "latitude": 32.673888888,
+    "longitude": 51.691527777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.9,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1570.0
+  },
+  {
+    "name": "Haj Rajab Ali Mosque (Tehran)",
+    "latitude": 35.6775,
+    "longitude": 51.412777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1143.0
+  },
+  {
+    "name": "Ali Mosque (Nushabad)",
+    "latitude": 34.079694444,
+    "longitude": 51.437722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 3.1,
+      "winddirection": 291,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 898.0
+  },
+  {
+    "name": "Muhammad Jafar Abadei Mosque",
+    "latitude": 32.666111111,
+    "longitude": 51.675833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1576.0
+  },
+  {
+    "name": "Ilchi Mosque",
+    "latitude": 32.6615,
+    "longitude": 51.691138888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1574.0
+  },
+  {
+    "name": "Jameh Mosque of Mohammadiyeh (Nain)",
+    "latitude": 32.864527777,
+    "longitude": 53.111083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.6,
+      "windspeed": 4.7,
+      "winddirection": 293,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1526.0
+  },
+  {
+    "name": "Tepe Bampur",
+    "latitude": 27.201944444,
+    "longitude": 60.4475,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.5,
+      "windspeed": 2.9,
+      "winddirection": 330,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 525.0
+  },
+  {
+    "name": "Jameh Mosque of Khvansar",
+    "latitude": 33.21615,
+    "longitude": 50.32121,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.3,
+      "windspeed": 9.0,
+      "winddirection": 203,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 2265.0
+  },
+  {
+    "name": "Jameh Mosque of Kashmar",
+    "latitude": 35.232222222,
+    "longitude": 58.462222222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 2.3,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1049.0
+  },
+  {
+    "name": "Shahrud Museum",
+    "latitude": 36.428,
+    "longitude": 54.968166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.4,
+      "windspeed": 11.2,
+      "winddirection": 42,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1367.0
+  },
+  {
+    "name": "Musalla of Sabzevar",
+    "latitude": 36.200611111,
+    "longitude": 57.699833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 20.5,
+      "winddirection": 75,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 959.0
+  },
+  {
+    "name": "Jameh Mosque of Sarab",
+    "latitude": 37.938611111,
+    "longitude": 47.535555555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 16.0,
+      "windspeed": 12.2,
+      "winddirection": 104,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1683.0
+  },
+  {
+    "name": "Tepe Mafinabad",
+    "latitude": 35.522222222,
+    "longitude": 51.222916666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.2,
+      "windspeed": 14.2,
+      "winddirection": 300,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1037.0
+  },
+  {
+    "name": "Imam Sadiq Mosque",
+    "latitude": 32.323905,
+    "longitude": 50.850646,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.5,
+      "windspeed": 2.2,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2054.0
+  },
+  {
+    "name": "Jameh Mosque of Siraf",
+    "latitude": 27.667305555,
+    "longitude": 52.335083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 38.7,
+      "windspeed": 10.2,
+      "winddirection": 48,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 10.0
+  },
+  {
+    "name": "Shah Abol-Qasem Mosque",
+    "latitude": 31.903611111,
+    "longitude": 54.367222222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.8,
+      "windspeed": 9.7,
+      "winddirection": 132,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1211.0
+  },
+  {
+    "name": "Ameneh Gol Mosque",
+    "latitude": 32.031444444,
+    "longitude": 53.550888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 3.8,
+      "winddirection": 197,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1956.0
+  },
+  {
+    "name": "Dehagh Grand Mosque",
+    "latitude": 33.10637458,
+    "longitude": 50.95449337,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.0,
+      "windspeed": 3.9,
+      "winddirection": 68,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1954.0
+  },
+  {
+    "name": "Meydan Mosque (Kashan)",
+    "latitude": 33.986277777,
+    "longitude": 51.451888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 3.7,
+      "winddirection": 259,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 939.0
+  },
+  {
+    "name": "Khosrow Shir Mosque",
+    "latitude": 36.790277777,
+    "longitude": 57.168861111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 5.0,
+      "winddirection": 69,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1027.0
+  },
+  {
+    "name": "Mansur Kuh Castle",
+    "latitude": 36.278527777,
+    "longitude": 54.207416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.3,
+      "windspeed": 12.1,
+      "winddirection": 350,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1636.0
+  },
+  {
+    "name": "Farashah Shrine",
+    "latitude": 31.730944444,
+    "longitude": 54.103694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 8.6,
+      "winddirection": 202,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1758.0
+  },
+  {
+    "name": "Gaz Mosque",
+    "latitude": 32.802722222,
+    "longitude": 51.620833333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.4,
+      "windspeed": 2.9,
+      "winddirection": 120,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1578.0
+  },
+  {
+    "name": "Ashurgah Castle",
+    "latitude": 32.867138888,
+    "longitude": 53.113277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 4.7,
+      "winddirection": 293,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1533.0
+  },
+  {
+    "name": "Jameh Mosque of Sareshk",
+    "latitude": 33.498888888,
+    "longitude": 51.937777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.8,
+      "windspeed": 4.8,
+      "winddirection": 283,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1630.0
+  },
+  {
+    "name": "Malek Zozan Mosque",
+    "latitude": 34.355444444,
+    "longitude": 59.876888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 5.3,
+      "winddirection": 208,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 770.0
+  },
+  {
+    "name": "Jameh Mosque of Haftshuyeh",
+    "latitude": 32.703555555,
+    "longitude": 51.787388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.0,
+      "windspeed": 6.3,
+      "winddirection": 103,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1548.0
+  },
+  {
+    "name": "Jameh Mosque of Afin",
+    "latitude": 33.525416666,
+    "longitude": 59.747527777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.2,
+      "windspeed": 9.4,
+      "winddirection": 137,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1423.0
+  },
+  {
+    "name": "Jameh Mosque of Jar",
+    "latitude": 32.521527777,
+    "longitude": 51.840027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 3.4,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1540.0
+  },
+  {
+    "name": "Khan Castle",
+    "latitude": 27.197555555,
+    "longitude": 54.372361111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.0,
+      "windspeed": 8.7,
+      "winddirection": 5,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 405.0
+  },
+  {
+    "name": "Hosseini Mosque (Qaen)",
+    "latitude": 33.72725,
+    "longitude": 59.191722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 3.9,
+      "winddirection": 22,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1440.0
+  },
+  {
+    "name": "Bābā Jān Tepe",
+    "latitude": 34.0236,
+    "longitude": 47.9358,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.7,
+      "windspeed": 2.8,
+      "winddirection": 320,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1880.0
+  },
+  {
+    "name": "Amir Mosque (Kish)",
+    "latitude": 26.554944444,
+    "longitude": 54.02175,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.7,
+      "windspeed": 14.9,
+      "winddirection": 82,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 4.0
+  },
+  {
+    "name": "Gilan Rural Heritage Museum",
+    "latitude": 37.129138888,
+    "longitude": 49.647694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.5,
+      "windspeed": 2.4,
+      "winddirection": 153,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 68.0
+  },
+  {
+    "name": "Jameh Mosque of Naraq",
+    "latitude": 34.008583333,
+    "longitude": 50.84125,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.8,
+      "windspeed": 13.3,
+      "winddirection": 71,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1903.0
+  },
+  {
+    "name": "Natural History Museum of Isfahan",
+    "latitude": 32.65830833,
+    "longitude": 51.67363056,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1580.0
+  },
+  {
+    "name": "Sarbaz Castle",
+    "latitude": 26.63025,
+    "longitude": 61.25691667,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.3,
+      "windspeed": 2.5,
+      "winddirection": 270,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 899.0
+  },
+  {
+    "name": "Qala Castle (Sarbisheh County)",
+    "latitude": 32.698138888,
+    "longitude": 59.474055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 16.6,
+      "windspeed": 9.4,
+      "winddirection": 337,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2177.0
+  },
+  {
+    "name": "Old Sepahsalar Mosque",
+    "latitude": 35.679083333,
+    "longitude": 51.424694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1148.0
+  },
+  {
+    "name": "Jameh Mosque of Bersian",
+    "latitude": 32.521944444,
+    "longitude": 52.033888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.8,
+      "windspeed": 9.0,
+      "winddirection": 119,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1520.0
+  },
+  {
+    "name": "Golshan Mosque",
+    "latitude": 36.842055555,
+    "longitude": 54.424222222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 8.0,
+      "winddirection": 188,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 115.0
+  },
+  {
+    "name": "Q5877641",
+    "latitude": 31.91666667,
+    "longitude": 51.31666667,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.6,
+      "windspeed": 5.2,
+      "winddirection": 155,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 2315.0
+  },
+  {
+    "name": "Jameh Mosque of Shahr-e Kord",
+    "latitude": 32.324083333,
+    "longitude": 50.853972222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.5,
+      "windspeed": 2.2,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 2056.0
+  },
+  {
+    "name": "Q5877302",
+    "latitude": 35.81221,
+    "longitude": 51.433534,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 4.3,
+      "winddirection": 355,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1657.0
+  },
+  {
+    "name": "Shahdiz Castle",
+    "latitude": 31.537055555,
+    "longitude": 60.108333333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.9,
+      "windspeed": 29.9,
+      "winddirection": 2,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1424.0
+  },
+  {
+    "name": "Haj Muhammad Husayn Mosque",
+    "latitude": 32.319166666,
+    "longitude": 54.021111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.5,
+      "windspeed": 3.3,
+      "winddirection": 139,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1033.0
+  },
+  {
+    "name": "Imamzadeh Yahya Mosque (Hamadan)",
+    "latitude": 34.793416666,
+    "longitude": 48.519722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.1,
+      "windspeed": 2.1,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1835.0
+  },
+  {
+    "name": "Ostanavand Castle",
+    "latitude": 35.300277777,
+    "longitude": 52.418611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.3,
+      "windspeed": 14.9,
+      "winddirection": 82,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 996.0
+  },
+  {
+    "name": "Haj Agha Ali Mosque",
+    "latitude": 30.292777777,
+    "longitude": 57.078611111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.9,
+      "windspeed": 1.5,
+      "winddirection": 76,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1761.0
+  },
+  {
+    "name": "Tabrizi Mosque",
+    "latitude": 33.985222222,
+    "longitude": 51.448416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 3.7,
+      "winddirection": 259,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 940.0
+  },
+  {
+    "name": "Agha Mahmud Mosque",
+    "latitude": 35.678111111,
+    "longitude": 51.425805555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1148.0
+  },
+  {
+    "name": "Jameh Mosque of Ardakan",
+    "latitude": 32.319166666,
+    "longitude": 54.019444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.5,
+      "windspeed": 3.3,
+      "winddirection": 139,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1033.0
+  },
+  {
+    "name": "Police Park (Tehran)",
+    "latitude": 35.758111111,
+    "longitude": 51.542111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 5.6,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1470.0
+  },
+  {
+    "name": "Q5879015",
+    "latitude": 38.067983333,
+    "longitude": 46.294211111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1400.0
+  },
+  {
+    "name": "Tepe Hesar-e Hasan Beyk",
+    "latitude": 35.201444444,
+    "longitude": 51.720194444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.5,
+      "windspeed": 23.1,
+      "winddirection": 104,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 837.0
+  },
+  {
+    "name": "Hojjatieh Mosque",
+    "latitude": 38.54842,
+    "longitude": 44.96035,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 2.8,
+      "winddirection": 230,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1136.0
+  },
+  {
+    "name": "Jameh Mosque of Quzhd",
+    "latitude": 34.415833333,
+    "longitude": 58.739444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.6,
+      "windspeed": 5.6,
+      "winddirection": 165,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1038.0
+  },
+  {
+    "name": "Nowshahr Botanical Garden",
+    "latitude": 36.644722222,
+    "longitude": 51.510555555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.1,
+      "windspeed": 6.0,
+      "winddirection": 295,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": -7.0
+  },
+  {
+    "name": "Mirror Palace (Yazd)",
+    "latitude": 31.857777777,
+    "longitude": 54.381111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.6,
+      "windspeed": 9.7,
+      "winddirection": 132,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1232.0
+  },
+  {
+    "name": "Forud Castle",
+    "latitude": 37.051444444,
+    "longitude": 59.658055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.1,
+      "windspeed": 3.3,
+      "winddirection": 221,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1492.0
+  },
+  {
+    "name": "Shohada Mosque",
+    "latitude": 38.0775,
+    "longitude": 46.29555556,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1396.0
+  },
+  {
+    "name": "Sheikh Abdolhossein Mosque",
+    "latitude": 35.674694444,
+    "longitude": 51.418861111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1139.0
+  },
+  {
+    "name": "Jameh Mosque of Meymeh",
+    "latitude": 33.44382,
+    "longitude": 51.166295,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 5.2,
+      "winddirection": 74,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2003.0
+  },
+  {
+    "name": "Jameh Mosque of Sarabi",
+    "latitude": 34.5334,
+    "longitude": 48.4698,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.4,
+      "windspeed": 8.1,
+      "winddirection": 69,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1904.0
+  },
+  {
+    "name": "Samuei Mosque",
+    "latitude": 34.364372368,
+    "longitude": 58.730920926,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.3,
+      "windspeed": 6.6,
+      "winddirection": 171,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1068.0
+  },
+  {
+    "name": "Kondor Castle",
+    "latitude": 35.208972222,
+    "longitude": 58.150805555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.9,
+      "windspeed": 8.1,
+      "winddirection": 45,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 965.0
+  },
+  {
+    "name": "Menareh Mosque",
+    "latitude": 37.551083333,
+    "longitude": 45.070444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 9.7,
+      "winddirection": 318,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1355.0
+  },
+  {
+    "name": "Nain Mosalla Garden",
+    "latitude": 32.860083333,
+    "longitude": 53.090666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.2,
+      "windspeed": 4.5,
+      "winddirection": 284,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1562.0
+  },
+  {
+    "name": "Q5881498",
+    "latitude": 35.667559,
+    "longitude": 51.401835,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.0,
+      "windspeed": 2.1,
+      "winddirection": 329,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1126.0
+  },
+  {
+    "name": "Tepe Ghabristan",
+    "latitude": 35.816432,
+    "longitude": 49.947447,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.5,
+      "windspeed": 4.9,
+      "winddirection": 306,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1250.0
+  },
+  {
+    "name": "Heydarabad Castle",
+    "latitude": 28.211027777,
+    "longitude": 61.213527777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.4,
+      "windspeed": 5.4,
+      "winddirection": 8,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1410.0
+  },
+  {
+    "name": "Agha Mosque (Abarkuh)",
+    "latitude": 31.127694444,
+    "longitude": 53.286722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.9,
+      "windspeed": 6.1,
+      "winddirection": 140,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1510.0
+  },
+  {
+    "name": "Domab Castle",
+    "latitude": 33.121944444,
+    "longitude": 50.715555555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.8,
+      "windspeed": 3.7,
+      "winddirection": 209,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 2142.0
+  },
+  {
+    "name": "Narin Castle (Meybod)",
+    "latitude": 32.226111111,
+    "longitude": 54.014444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.2,
+      "windspeed": 4.5,
+      "winddirection": 151,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1105.0
+  },
+  {
+    "name": "Portuguese Castle (Bandar Kong)",
+    "latitude": 26.587416666,
+    "longitude": 54.936388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.6,
+      "windspeed": 7.9,
+      "winddirection": 93,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 0.0
+  },
+  {
+    "name": "Q5882108",
+    "latitude": 38.248826,
+    "longitude": 48.294254,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 15.9,
+      "windspeed": 7.1,
+      "winddirection": 30,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1352.0
+  },
+  {
+    "name": "Churs Grand Castle",
+    "latitude": 38.835555555,
+    "longitude": 45.039444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.2,
+      "windspeed": 5.8,
+      "winddirection": 356,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1185.0
+  },
+  {
+    "name": "Ganjali Khan Castle",
+    "latitude": 30.29525,
+    "longitude": 57.290027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.6,
+      "windspeed": 4.8,
+      "winddirection": 228,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2264.0
+  },
+  {
+    "name": "Omrani Mosque",
+    "latitude": 34.558666666,
+    "longitude": 58.711472222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 4.8,
+      "winddirection": 138,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 911.0
+  },
+  {
+    "name": "Masheh Mosque",
+    "latitude": 26.557694444,
+    "longitude": 54.022583333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.7,
+      "windspeed": 14.9,
+      "winddirection": 82,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 4.0
+  },
+  {
+    "name": "Mirza Musa Mosque",
+    "latitude": 35.675951,
+    "longitude": 51.424835,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1145.0
+  },
+  {
+    "name": "Rig Mosque (Majumerd)",
+    "latitude": 32.022111111,
+    "longitude": 54.189916666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.2,
+      "windspeed": 8.8,
+      "winddirection": 125,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1168.0
+  },
+  {
+    "name": "Jameh Mosque of Mehrabad",
+    "latitude": 37.337222222,
+    "longitude": 46.061388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 31.2,
+      "winddirection": 76,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1290.0
+  },
+  {
+    "name": "Majd al-Dawla Mosque",
+    "latitude": 35.686305555,
+    "longitude": 51.412666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1158.0
+  },
+  {
+    "name": "Nasir Mosque",
+    "latitude": 32.631805555,
+    "longitude": 51.364305555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.2,
+      "windspeed": 1.6,
+      "winddirection": 333,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1649.0
+  },
+  {
+    "name": "Nizam al-Dawla Mosque",
+    "latitude": 35.684416666,
+    "longitude": 51.424444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1160.0
+  },
+  {
+    "name": "Jameh Mosque of Biland",
+    "latitude": 34.391694444,
+    "longitude": 58.699305555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.4,
+      "windspeed": 7.1,
+      "winddirection": 165,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1058.0
+  },
+  {
+    "name": "Bar Bar Castle",
+    "latitude": 38.476548,
+    "longitude": 47.862211,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 16.5,
+      "windspeed": 4.7,
+      "winddirection": 23,
+      "is_day": 0,
+      "weathercode": 80
+    },
+    "elevation_m": 1389.0
+  },
+  {
+    "name": "Q5883941",
+    "latitude": 32.58247222,
+    "longitude": 59.62236111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 17.0,
+      "windspeed": 5.8,
+      "winddirection": 4,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1919.0
+  },
+  {
+    "name": "Robat Castle",
+    "latitude": 31.128722222,
+    "longitude": 53.263222222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.6,
+      "windspeed": 5.4,
+      "winddirection": 138,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1518.0
+  },
+  {
+    "name": "Castle of Malik Mansour Khan",
+    "latitude": 29.471953,
+    "longitude": 50.996962,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 32.5,
+      "windspeed": 6.9,
+      "winddirection": 51,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 36.0
+  },
+  {
+    "name": "Mehr Padin Castle",
+    "latitude": 31.5837,
+    "longitude": 54.4579,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.5,
+      "windspeed": 6.4,
+      "winddirection": 254,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1462.0
+  },
+  {
+    "name": "Q5884698",
+    "latitude": 26.230988,
+    "longitude": 60.73973,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.6,
+      "windspeed": 0.8,
+      "winddirection": 243,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 497.0
+  },
+  {
+    "name": "Seyyed Azizollah Mosque (Tehran Grand Bazaar)",
+    "latitude": 35.675138888,
+    "longitude": 51.422111111,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.9,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1143.0
+  },
+  {
+    "name": "Jameh Mosque of Raqqeh",
+    "latitude": 33.8225,
+    "longitude": 57.274166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.6,
+      "windspeed": 8.4,
+      "winddirection": 205,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1166.0
+  },
+  {
+    "name": "Sheikh Mazhar Mosque",
+    "latitude": 36.236583333,
+    "longitude": 46.266277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 2.7,
+      "winddirection": 337,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1468.0
+  },
+  {
+    "name": "Red Mosque (Isfahan)",
+    "latitude": 32.661611111,
+    "longitude": 51.670777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1575.0
+  },
+  {
+    "name": "Jameh Mosque of Nushabad",
+    "latitude": 34.078111111,
+    "longitude": 51.437277777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.1,
+      "windspeed": 3.1,
+      "winddirection": 291,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 898.0
+  },
+  {
+    "name": "Sheikh Ali Akbar Mosque",
+    "latitude": 36.422944444,
+    "longitude": 54.961027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.4,
+      "windspeed": 11.2,
+      "winddirection": 42,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1354.0
+  },
+  {
+    "name": "Haji Jalal Mosque",
+    "latitude": 35.234027777,
+    "longitude": 58.4605,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 2.3,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1050.0
+  },
+  {
+    "name": "Jameh Mosque of Noqab",
+    "latitude": 34.350166666,
+    "longitude": 58.726666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.2,
+      "windspeed": 6.6,
+      "winddirection": 171,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1078.0
+  },
+  {
+    "name": "Samabad Castle",
+    "latitude": 34.708196,
+    "longitude": 51.087278,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.2,
+      "windspeed": 16.9,
+      "winddirection": 117,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 838.0
+  },
+  {
+    "name": "Neshat Garden (Lar)",
+    "latitude": 27.686194444,
+    "longitude": 54.342416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.3,
+      "windspeed": 4.0,
+      "winddirection": 360,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 814.0
+  },
+  {
+    "name": "Mozaffarabad Castle",
+    "latitude": 34.735728,
+    "longitude": 51.095332,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.4,
+      "windspeed": 13.4,
+      "winddirection": 114,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 838.0
+  },
+  {
+    "name": "Moghuyeh Castle",
+    "latitude": 26.601944444,
+    "longitude": 54.507388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 34.8,
+      "windspeed": 13.2,
+      "winddirection": 79,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 8.0
+  },
+  {
+    "name": "Khur Castle",
+    "latitude": 32.936722222,
+    "longitude": 58.436027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.0,
+      "windspeed": 12.5,
+      "winddirection": 33,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1111.0
+  },
+  {
+    "name": "Kharv Castle",
+    "latitude": 33.630111111,
+    "longitude": 57.161777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.0,
+      "windspeed": 9.5,
+      "winddirection": 65,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1385.0
+  },
+  {
+    "name": "Jameh Mosque of Bastam",
+    "latitude": 36.483194444,
+    "longitude": 55.0,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.1,
+      "windspeed": 7.6,
+      "winddirection": 45,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1411.0
+  },
+  {
+    "name": "Ghal'eh Dokhtar of Ferdows",
+    "latitude": 34.07255556,
+    "longitude": 58.08472222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.2,
+      "windspeed": 5.5,
+      "winddirection": 113,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1274.0
+  },
+  {
+    "name": "Q5885912",
+    "latitude": 38.073072222,
+    "longitude": 46.331858333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.7,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1430.0
+  },
+  {
+    "name": "Lak Lak Ashian Castle",
+    "latitude": 36.162777777,
+    "longitude": 58.846388888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.9,
+      "windspeed": 2.5,
+      "winddirection": 315,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1184.0
+  },
+  {
+    "name": "Mulla Ismael Mosque",
+    "latitude": 31.895833333,
+    "longitude": 54.363055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.7,
+      "windspeed": 9.7,
+      "winddirection": 132,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1214.0
+  },
+  {
+    "name": "Turan Posht Mosque",
+    "latitude": 31.523138888,
+    "longitude": 53.864694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.5,
+      "windspeed": 10.2,
+      "winddirection": 45,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2345.0
+  },
+  {
+    "name": "Jameh Mosque of Sangan",
+    "latitude": 34.393416666,
+    "longitude": 60.256194444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.9,
+      "windspeed": 7.0,
+      "winddirection": 339,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 858.0
+  },
+  {
+    "name": "Amol History Museum",
+    "latitude": 36.470722222,
+    "longitude": 52.357166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.4,
+      "windspeed": 7.6,
+      "winddirection": 211,
+      "is_day": 0,
+      "weathercode": 61
+    },
+    "elevation_m": 91.0
+  },
+  {
+    "name": "Moshir Garden (Rahimabad)",
+    "latitude": 31.918,
+    "longitude": 54.367027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.5,
+      "windspeed": 11.3,
+      "winddirection": 127,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1208.0
+  },
+  {
+    "name": "Shishehgari Mosque",
+    "latitude": 32.671638888,
+    "longitude": 51.68725,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1571.0
+  },
+  {
+    "name": "Agha Gholam Ali Mosque",
+    "latitude": 30.289027777,
+    "longitude": 57.077083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.9,
+      "windspeed": 1.5,
+      "winddirection": 76,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1760.0
+  },
+  {
+    "name": "Alborz Mosque (Qom County)",
+    "latitude": 34.727777777,
+    "longitude": 50.971888888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.0,
+      "windspeed": 14.6,
+      "winddirection": 110,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 870.0
+  },
+  {
+    "name": "Moayyer Mosque",
+    "latitude": 35.671583333,
+    "longitude": 51.413583333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.0,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1132.0
+  },
+  {
+    "name": "Baqerabad Castle",
+    "latitude": 31.666388888,
+    "longitude": 55.374722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.2,
+      "windspeed": 4.0,
+      "winddirection": 80,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 978.0
+  },
+  {
+    "name": "Mozaffari Palace (Darabad)",
+    "latitude": 35.817666,
+    "longitude": 51.516311,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.0,
+      "windspeed": 8.0,
+      "winddirection": 342,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1907.0
+  },
+  {
+    "name": "Cheshmeh-Ali Castle",
+    "latitude": 36.276833333,
+    "longitude": 54.083583333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.1,
+      "windspeed": 12.1,
+      "winddirection": 350,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1498.0
+  },
+  {
+    "name": "Zanjan Archaeology Museum",
+    "latitude": 36.670919,
+    "longitude": 48.480697,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.6,
+      "windspeed": 8.3,
+      "winddirection": 85,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1650.0
+  },
+  {
+    "name": "Agha Khan Liravi Castle",
+    "latitude": 29.8625,
+    "longitude": 50.263055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 33.5,
+      "windspeed": 3.1,
+      "winddirection": 111,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 13.0
+  },
+  {
+    "name": "Saryazd Castle",
+    "latitude": 31.601111111,
+    "longitude": 54.527638888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.0,
+      "windspeed": 5.2,
+      "winddirection": 245,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1401.0
+  },
+  {
+    "name": "Hanjan Castle",
+    "latitude": 33.612222222,
+    "longitude": 51.7475,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 7.0,
+      "winddirection": 235,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1557.0
+  },
+  {
+    "name": "Jameh Mosque of Marandiz",
+    "latitude": 34.7895,
+    "longitude": 58.3531,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.3,
+      "windspeed": 10.8,
+      "winddirection": 90,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 826.0
+  },
+  {
+    "name": "Q5887827",
+    "latitude": 35.683748,
+    "longitude": 51.439482,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1165.0
+  },
+  {
+    "name": "Ershad Mosque",
+    "latitude": 32.633611111,
+    "longitude": 51.363333333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.2,
+      "windspeed": 1.6,
+      "winddirection": 333,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1652.0
+  },
+  {
+    "name": "Tepe Paj",
+    "latitude": 36.477694444,
+    "longitude": 59.672027777,
+    "weather": {
+      "error": "HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "elevation_m": 1056.0
+  },
+  {
+    "name": "Nehchir Castle",
+    "latitude": 32.332777777,
+    "longitude": 51.532666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.0,
+      "windspeed": 4.3,
+      "winddirection": 132,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1681.0
+  },
+  {
+    "name": "Sang Siah Palace",
+    "latitude": 29.338194444,
+    "longitude": 51.163222222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.2,
+      "windspeed": 5.4,
+      "winddirection": 53,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 39.0
+  },
+  {
+    "name": "Jameh Mosque of Kaj",
+    "latitude": 32.539722222,
+    "longitude": 51.839027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.4,
+      "windspeed": 5.5,
+      "winddirection": 79,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1536.0
+  },
+  {
+    "name": "Jameh Mosque of Dastjerd (Shahrud County)",
+    "latitude": 36.142055555,
+    "longitude": 56.093527777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.9,
+      "windspeed": 9.7,
+      "winddirection": 312,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 945.0
+  },
+  {
+    "name": "Naseri Castle (Iranshahr)",
+    "latitude": 27.207222222,
+    "longitude": 60.686722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 31.8,
+      "windspeed": 5.0,
+      "winddirection": 111,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 572.0
+  },
+  {
+    "name": "Q5889360",
+    "latitude": 29.934424802,
+    "longitude": 52.889986639,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.7,
+      "windspeed": 5.5,
+      "winddirection": 58,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1635.0
+  },
+  {
+    "name": "Aliabad Mosque (Sari County)",
+    "latitude": 36.170027777,
+    "longitude": 53.330083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 19.9,
+      "windspeed": 2.1,
+      "winddirection": 301,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 687.0
+  },
+  {
+    "name": "Jameh Mosque of Kharanaq",
+    "latitude": 32.345611111,
+    "longitude": 54.669055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.5,
+      "windspeed": 3.8,
+      "winddirection": 311,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1748.0
+  },
+  {
+    "name": "Q5889590",
+    "latitude": 32.64629722,
+    "longitude": 51.68566667,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 5.2,
+      "winddirection": 102,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1576.0
+  },
+  {
+    "name": "Asnaq Stone Mosque",
+    "latitude": 38.061972222,
+    "longitude": 47.189083333,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 16.7,
+      "windspeed": 3.1,
+      "winddirection": 216,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1645.0
+  },
+  {
+    "name": "Hatiteh Mosque",
+    "latitude": 35.185472222,
+    "longitude": 57.877027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.0,
+      "windspeed": 10.3,
+      "winddirection": 65,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 870.0
+  },
+  {
+    "name": "Dashti Mosque",
+    "latitude": 32.527388888,
+    "longitude": 51.790916666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.0,
+      "windspeed": 3.4,
+      "winddirection": 72,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1547.0
+  },
+  {
+    "name": "Eziran Mosque",
+    "latitude": 32.4985,
+    "longitude": 51.908666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.1,
+      "windspeed": 6.1,
+      "winddirection": 87,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1536.0
+  },
+  {
+    "name": "Meimoon Ghal'eh",
+    "latitude": 36.255,
+    "longitude": 50.003055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 6.1,
+      "winddirection": 315,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1287.0
+  },
+  {
+    "name": "Pulad Castle",
+    "latitude": 36.20575,
+    "longitude": 51.812416666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 15.1,
+      "windspeed": 5.7,
+      "winddirection": 342,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 2077.0
+  },
+  {
+    "name": "Jameh Mosque of Darab",
+    "latitude": 28.747861111,
+    "longitude": 54.542194444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.1,
+      "windspeed": 7.3,
+      "winddirection": 327,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1123.0
+  },
+  {
+    "name": "Irandegan Castle",
+    "latitude": 27.559805555,
+    "longitude": 61.010694444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 29.8,
+      "windspeed": 3.1,
+      "winddirection": 216,
+      "is_day": 0,
+      "weathercode": 3
+    },
+    "elevation_m": 1167.0
+  },
+  {
+    "name": "Q5890727",
+    "latitude": 38.084375,
+    "longitude": 46.295791666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.0,
+      "windspeed": 37.3,
+      "winddirection": 84,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1390.0
+  },
+  {
+    "name": "Q5890968",
+    "latitude": 36.037722222,
+    "longitude": 59.461,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 18.0,
+      "windspeed": 5.0,
+      "winddirection": 30,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1575.0
+  },
+  {
+    "name": "Seh Kohye Castle",
+    "latitude": 30.77726,
+    "longitude": 61.44193,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 30.4,
+      "windspeed": 25.1,
+      "winddirection": 331,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 484.0
+  },
+  {
+    "name": "Shisheh Mosque (Isfahan)",
+    "latitude": 32.663944444,
+    "longitude": 51.677166666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 23.8,
+      "windspeed": 4.3,
+      "winddirection": 95,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1572.0
+  },
+  {
+    "name": "Memarbashi Mosque",
+    "latitude": 35.679027777,
+    "longitude": 51.435722222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.8,
+      "windspeed": 3.2,
+      "winddirection": 27,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1151.0
+  },
+  {
+    "name": "Chehel Sotun Mosque (Sorkheh)",
+    "latitude": 35.46425,
+    "longitude": 53.213138888,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.0,
+      "windspeed": 6.9,
+      "winddirection": 6,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1139.0
+  },
+  {
+    "name": "Do Menareh Mosque",
+    "latitude": 36.23675,
+    "longitude": 46.269472222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.4,
+      "windspeed": 2.7,
+      "winddirection": 337,
+      "is_day": 0,
+      "weathercode": 2
+    },
+    "elevation_m": 1471.0
+  },
+  {
+    "name": "Hoshun Castle",
+    "latitude": 29.2295,
+    "longitude": 56.282027777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 22.4,
+      "windspeed": 7.4,
+      "winddirection": 76,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 2270.0
+  },
+  {
+    "name": "Malek Mosque",
+    "latitude": 30.287777777,
+    "longitude": 57.081666666,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 20.9,
+      "windspeed": 1.5,
+      "winddirection": 76,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1760.0
+  },
+  {
+    "name": "Tepe Khurian-3",
+    "latitude": 36.323333333,
+    "longitude": 54.879444444,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 21.5,
+      "windspeed": 18.5,
+      "winddirection": 63,
+      "is_day": 0,
+      "weathercode": 1
+    },
+    "elevation_m": 1201.0
+  },
+  {
+    "name": "Khansharaf Castle",
+    "latitude": 31.56225,
+    "longitude": 60.100472222,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 25.5,
+      "windspeed": 24.7,
+      "winddirection": 8,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1214.0
+  },
+  {
+    "name": "Jameh Mosque of Khvormiz-e Sofla",
+    "latitude": 31.538,
+    "longitude": 54.446055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 24.3,
+      "windspeed": 6.4,
+      "winddirection": 254,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1506.0
+  },
+  {
+    "name": "Sadri Garden",
+    "latitude": 31.746027777,
+    "longitude": 54.205,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 26.1,
+      "windspeed": 9.0,
+      "winddirection": 185,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1538.0
+  },
+  {
+    "name": "Moshir Garden",
+    "latitude": 31.917777777,
+    "longitude": 54.338055555,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 27.9,
+      "windspeed": 10.9,
+      "winddirection": 134,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1209.0
+  },
+  {
+    "name": "Jameh Mosque of Jahrom",
+    "latitude": 28.503333333,
+    "longitude": 53.552777777,
+    "weather": {
+      "time": "2025-08-16T03:15",
+      "interval": 900,
+      "temperature": 28.6,
+      "windspeed": 5.4,
+      "winddirection": 48,
+      "is_day": 0,
+      "weathercode": 0
+    },
+    "elevation_m": 1041.0
+  }
+]
