@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "question": "با توجه به تصویر خانه بروجردی‌ها در کاشان این خانه با چه چیزی شانخته میشود؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Roof_of_the_Borujerdi_House%2C_Kashan.jpg/500px-Roof_of_the_Borujerdi_House%2C_Kashan.jpg",
+        "options": [
+            "بادگیرهای هلالی شکل",
+            "برج و باروی نظامی",
+            "گنبد و مناره مسجد",
+            "پل معلق بر روی رودخانه"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "question": "با توجه به تصویر چه ویژگی شاخصی برای شهر باستانی گور مشاهده می‌شود؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A7%DB%8C_%DA%AF%D9%88%D8%B1.jpg/500px-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A7%DB%8C_%DA%AF%D9%88%D8%B1.jpg",
+        "options": [
+            "معماری پلکانی شبیه تخت جمشید",
+            "بادگیرهای هلالی و کلاه‌فرنگی",
+            "ساختار دایره‌ای با چهار دروازه اصلی",
+            "باغ ایرانی با موزه سلاح‌های قدیمی"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "question": "چه ویژگی معماری در مسجد جامع اصفهان قابل مشاهده است؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20180301124354_IMG_4179And6more_Interior_3.jpg/500px-20180301124354_IMG_4179And6more_Interior_3.jpg",
+        "options": [
+            "پل معلق بر روی رودخانه",
+            "چهار ایوان در ضلع‌های شمالی، جنوبی، شرقی و غربی",
+            "بادگیرهای هلالی شکل و کلاه‌فرنگی",
+            "باغ ایرانی با موزه سلاح‌های قدیمی"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "question": "این تصویر متعلق به کدام مناره تاریخی در ایران است که در دوره سلجوقیان ساخته شده و حدود ۹۰۰ سال سالم باقی مانده است؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Golpayegan_712.jpg/500px-Golpayegan_712.jpg",
+        "options": [
+            "مناره گلپایگان",
+            "مناره مسجد جامع اصفهان",
+            "مناره مسجد جامع نایین",
+            "مناره مسجد جامع یزد"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "question": "برج کبوتر شاپورآباد چه کاربردی داشته است؟",
+        "image_url": "",
+        "options": [
+            "مناره مسجد و محل اذان",
+            "کاخ سلطنتی و محل سکونت پادشاهان",
+            "پل تاریخی روی رودخانه",
+            "محل دیده‌بانی و زیستگاه کبوتران"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 6,
+        "question": "تنگه چاهکوه در جزیره قشم چگونه به این شکل درآمده است؟",
+        "image_url": "https://www.alibaba.ir/mag/hormozgan/qeshm-island/chahkooh-canyon/",
+        "options": [
+            "به دلیل زلزله و رانش زمین",
+            "از فوران‌های آتشفشانی",
+            "با ساخت دست بشر برای مسیر عبور",
+            "بر اثر فرسایش سنگ‌های رسوبی"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 7,
+        "question": "تالاب خورخوران چگونه شکل گرفته و چه ویژگی برجسته‌ای دارد؟",
+        "image_url": "https://khamir.ir/wp-content/uploads/2018/07/IMG_0195-1024x480.jpg",
+        "options": [
+            "منطقه‌ای با جنگل‌های حرا و زیستگاه پرندگان و آبزیان",
+            "تپه‌های شنی بیابانی و محل زندگی شترها",
+            "کوهستان صخره‌ای و مسیر کوهنوردی",
+            "دریاچه‌ای مصنوعی برای کشاورزی"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "question": "پل پاتاوه در کدام منطقه قرار دارد؟",
+        "image_url": "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2023/11/shakhes-4.jpg",
+        "options": [
+            "کویر لوت",
+            "منطقه حفاظت‌شده دنا",
+            "کوهستان زاگرس",
+            "جزیره قشم"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "question": "با توجه به تصویر منطقه حفاظت‌شده سبزکوه شامل چه نوع منطقه‌ای می‌شوند؟",
+        "image_url": "https://api2.kojaro.com/media/2020-5-69b17ad0-32dc-4325-b24f-e7f258b47311-67c46104c1067c5ba7667ea6?w=1200&q=80",
+        "options": [
+            "ساحلی و دریایی",
+            "بیابانی و خشک",
+            "کوهستانی و جنگلی",
+            "دشت باز و هموار"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "question": "جزیره نخیلو چه ویژگی شاخصی دارد؟",
+        "image_url": "https://i1.delgarm.com/i/766/021225/65f409c597e2d.jpeg",
+        "options": [
+            "جزیره‌ای غیرمسکونی در خلیج‌فارس",
+            "جزیره‌ای مسکونی با شهرک‌های ساحلی",
+            "جزیره‌ای با جنگل‌های حرا و تالاب",
+            "جزیره‌ای کوهستانی و پرجمعیت"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "question": "آتشکده آذرخش یا مسجد سنگی داراب کدام ویژگی معماری را نشان می‌دهد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%86%DA%AF%DB%8C_%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8-%D9%86%D9%85%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AE%D9%84.jpg/500px-%D9%85%D8%B3%D8%AC%D8%AF%D8%B3%D9%86%DA%AF%DB%8C_%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8-%D9%86%D9%85%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AE%D9%84.jpg",
+        "options": [
+            "دارای بادگیرهای هلالی و کلاه‌فرنگی",
+            "ساخته‌شده از سنگ و تراشیده در دل کوه",
+            "پل تاریخی با قوس‌های متعدد",
+            "ساختمان آجری با مناره‌های بلند"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "question": "برکه کل یا گنج‌البحر چه نوع سازه ای است؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%D8%A8%D8%B1%DA%A9%D9%87_%DA%A9%D9%84.jpg/500px-%D8%A8%D8%B1%DA%A9%D9%87_%DA%A9%D9%84.jpg",
+        "options": [
+            "کاخ سلطنتی",
+            "آب‌انبار تاریخی",
+            "مسجد تاریخی",
+            "پل سنگی"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "question": "سرچشمه خوانسار یا پارک سرچشمه خوانسار دارای چه نوع محیط طبیعی است؟ ",
+        "image_url": "https://mrbilit.com/mag/wp-content/uploads/2021/05/4-82.jpg",
+        "options": [
+            "پارک جنگلی و کوهستانی",
+            "بیابان و تپه‌های شنی",
+            "ساحل و دریای کم‌عمق",
+            "دشت باز و هموار"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "question": "بازار تاریخی زواره چه ویژگی معماری و تاریخی دارد؟",
+        "image_url": "https://api2.kojaro.com/media/2022-11-8d614441-e995-482b-9fdd-3dc16dd86cfb-67c46112c1067c5ba76811ab?w=1680&q=80",
+        "options": [
+            "کاخ سلطنتی با باغ ایرانی",
+            "مسجد با گنبد و مناره‌های بلند",
+            "پل تاریخی روی رودخانه با قوس‌های متعدد",
+            "شبیه بازارهای اصفهان، کاشان و نایین و ارتباط‌دهنده مسجد جامع، امامزاده و حسینیه‌ها"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 15,
+        "question": "مسجد جامع ورزنه چه ویژگی‌های تاریخی و معماری دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%D9%86%D9%85%D8%A7%DB%8C_%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C_%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%88%D8%B1%D8%B2%D9%86%D9%87.jpg/500px-%D9%86%D9%85%D8%A7%DB%8C_%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C_%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%88%D8%B1%D8%B2%D9%86%D9%87.jpg",
+        "options": [
+            "مسجد قاجاری با کاشی کاری ساده و ایوان‌های کوچک",
+            "مسجد صفوی با گنبد فیروزه‌ای و مناره بلند",
+            "مسجد تیموری با کاشیکاری‌های لاجوردی، ایوان شمالی و جنوبی و مناره آجری",
+            "مسجد سلجوقی با پلان چهار ایوان و حیاط بزرگ"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "question": "این مکان در کدام ناحیه از ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Excavations_in_Ecbatana.jpg/1024px-Excavations_in_Ecbatana.jpg",
+        "options": [
+            "ناحیه دشت کویر",
+            "ناحیه سواحل شرقی دریای خزر",
+            "ناحیه زاگرس",
+            "ناحیه شمالی خلیج فارس"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "question": "این مکان در کدام ناحیه و استان ایران واقع است؟",
+        "image_url": "https://fa.wikipedia.org/wiki/%DA%86%D9%87%D9%84%E2%80%8C%D8%B3%D8%AA%D9%88%D9%86#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Chehel_Sotoon.jpg",
+        "options": [
+            "ناحیه مرکزی ، استان قم",
+            "ناحیه دشت کویر، استان اصفهان",
+            "ناحیه شمال غربی، استان آذربایجان غربی",
+            "ناحیه شمالی خلیج فارس ، استان بوشهر"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "question": "این مکان در کدام استان ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ardeshir.jpg",
+        "options": [
+            "بوشهر",
+            "هرمزگان",
+            "سیستان و بلوچستان",
+            "اهواز"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "question": "این مکان در کدام شهر از استان فارس قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Eram_Garden_%D8%A8%D8%A7%D8%BA_%D8%A7%D8%B1%D9%85_%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2_01.jpg",
+        "options": [
+            "مرودشت",
+            "فسا",
+            "استهبان",
+            "شیراز"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 20,
+        "question": "این مکان در کدام شهر از استان خوزستان قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%D9%82%D9%84%D8%B9%D9%87_%D8%B4%D9%88%D8%B4_01.jpg/800px-%D9%82%D9%84%D8%B9%D9%87_%D8%B4%D9%88%D8%B4_01.jpg",
+        "options": [
+            "ایذه",
+            "هویزه",
+            "شوش",
+            "دزفول"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "question": "این مکان در کدام شهر ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%D9%86%D8%A7%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%88%D8%A7%D9%85_1.jpg/1024px-%D9%86%D8%A7%D8%B1%D8%AC%D8%B3%D8%AA%D8%A7%D9%86_%D9%82%D9%88%D8%A7%D9%85_1.jpg",
+        "options": [
+            "مکران",
+            "شیراز",
+            "اصفهان",
+            "قم"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "question": "این مکان در کدام ناحیه از ایران قرار دارد؟",
+        "image_url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Cypress_of_Abarqu.JPG",
+        "options": [
+            "ناحیه دشت کویر",
+            "ناحیه دشت لوت",
+            "ناحیه زاگرس",
+            "ناحیه جنوب غربی ایران"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "question": "این مکان نام کدام کاخ در استان تهران است؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%A7%D8%B2_%D8%B4%D9%85%D8%B3_%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%B1%D9%87.jpg",
+        "options": [
+            "کاخ گلستان",
+            "کاخ نیاوران",
+            "کاخ سعد آباد",
+            "کاخ مرمر"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "question": "این مکان نام کدام جزیره ی ایران است؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/1400011322243119522511884_%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1_%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%B1%D9%88%D8%B2_%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA_%DA%A9%DB%8C%D8%B4.jpg",
+        "options": [
+            "ابوموسی",
+            "قشم",
+            "کیش",
+            "لاوان"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "question": "این مکان در کدام استان ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Masjed_jame_Atigh_shiraz.jpg/1024px-Masjed_jame_Atigh_shiraz.jpg",
+        "options": [
+            "کرمان",
+            "فارس",
+            "یزد",
+            "قم"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "question": "این مکان در کدام شهر ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%D8%B9%D9%81%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_2.jpg/800px-%D8%B9%D9%81%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_2.jpg",
+        "options": [
+            "البرز",
+            "تهران",
+            "مشهد",
+            "شیراز"
+        ],
+        "answer": 4
+    },
+    {
+        "id": 27,
+        "question": "این مکان در کدام منطقه از ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bastam05.jpg/1024px-Bastam05.jpg",
+        "options": [
+            "منطقه ساحلی دریای خزر",
+            "منطقه آذربایجان",
+            "منطقه زاگرس",
+            "منطقه فلات مرکزی"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "question": "این مکان در کدام منطقه از ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hormuz_Island_%2813961110000963636529286407678904_97745%29.jpg/1024px-Hormuz_Island_%2813961110000963636529286407678904_97745%29.jpg",
+        "options": [
+            "هرمزگان",
+            "کیش",
+            "خوزستان",
+            "بندرعباس"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "question": "این مکان در کدام شهر ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Park_Shahr_Tehran.jpg/1024px-Park_Shahr_Tehran.jpg",
+        "options": [
+            "تهران",
+            "کرج",
+            "قم",
+            "مشهد"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "question": "این مکان در کدام شهر ایران قرار دارد؟",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1394_%28Taghe_Bostan%29_by_Mohsen_Rashidi_2.jpg",
+        "options": [
+            "کرمانشاه",
+            "همدان",
+            "سنندج",
+            "ایلام"
+        ],
+        "answer": 2
+    }
+]
