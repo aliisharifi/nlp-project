@@ -50,7 +50,7 @@
     {
         "id": 5,
         "question": "برج کبوتر شاپورآباد چه کاربردی داشته است؟",
-        "image_url": "",
+        "image_url": "https://mrbilit.com/mag/wp-content/uploads/2022/10/kabutarkhane-shapurabad.jpg",
         "options": [
             "مناره مسجد و محل اذان",
             "کاخ سلطنتی و محل سکونت پادشاهان",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "question": "تنگه چاهکوه در جزیره قشم چگونه به این شکل درآمده است؟",
-        "image_url": "https://www.alibaba.ir/mag/hormozgan/qeshm-island/chahkooh-canyon/",
+        "image_url": "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/02/%D8%B9%DA%A9%D8%B3-%D8%B4%D8%A7%D8%AE%D8%B5-2.jpg",
         "options": [
             "به دلیل زلزله و رانش زمین",
             "از فوران‌های آتشفشانی",
